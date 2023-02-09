@@ -1,0 +1,207 @@
+			if = {
+				limit = {
+          FRA = { NOT = { has_country_flag = FRA_Secular } }
+					OR = {
+						FRA = { has_government = neutrality }
+						FRA = { has_government = democratic }
+					}
+				}
+
+        FRA = { 
+		      reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+          add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        }
+			}
+
+			if = {
+			  limit = { MEX = {  has_completed_focus = MEX_focus_religious_reconciliation  } }
+
+        MEX = { 
+		      reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+          add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        }
+			}
+
+      IRE = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      POL = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      BEL = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      AUS = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      LIT = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      ARG = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      VEN = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      URG = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      PRU = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      PAN = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      NIC = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      CUB = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+      
+      HAI = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }      
+
+      GUA = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }   
+
+      COS = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }      
+
+      COL = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }  
+
+			if = {
+				limit = {
+          FRA = { NOT = { has_country_flag = FRA_Secular } }
+					OR = {
+						FRA = { has_government = neutrality }
+						FRA = { has_government = democratic }
+					}
+				}
+
+        FRA = { 
+		      reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+          add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        }
+			}
+
+			if = {
+			  limit = { MEX = {  has_completed_focus = MEX_focus_religious_reconciliation  } }
+
+        MEX = { 
+		      reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+          add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        }
+			}
+
+      IRE = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      POL = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      BEL = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      AUS = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      LIT = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      ARG = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      VEN = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      URG = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      PRU = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      PAN = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      NIC = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+
+      CUB = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }
+      
+      HAI = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }      
+
+      GUA = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }   
+
+      COS = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }      
+
+      COL = { 
+		    reverse_add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+        add_opinion_modifier = { target = GER modifier = GER_Clear_the_church_op }
+      }  
