@@ -336,3 +336,77 @@
  ukr_diplo.12.t:0 "美国人拒绝了"
  ukr_diplo.12.d:0 "华盛顿方面宁愿给莫斯科打钱也不愿意给基辅一个铜板。"
  ukr_diplo.12.a:0 "混蛋。"
+
+ Bandera_inheritor_of_konovalets:0 "科诺瓦列茨的继承者"
+ 
+ Bandera_great_commander:0 "伟大的统帅"
+ Bandera_great_commander_2:0 "天降的伟人"
+ 
+ Bandera_Defender_of_Liberty:0 "自由的捍卫者"
+ 
+ Bandera_real_soldier:0 "真正的战士"
+ 
+ Bandera_architect_of_Ukrainian_nation:0 "国家建构者"
+ Bandera_father_of_nations:0 "乌克兰民族的领导者，救星，救世主和解放者"
+ 
+ HOF_UKR_army_dynamic_modifier:0 "乌克兰军队"
+ HOF_UKR_army_dynamic_modifier_desc:0 "时间将会证明这支军队是否能面对独立以来的一切挑战。"
+ 
+ HOF_UKR_black_army_dynamic_modifier:0 "黑军"
+ HOF_UKR_black_army_dynamic_modifier_desc:0 "作为安纳其的武装，黑军比起阵地战更加重视“人民战争”策略。"
+ 
+ NOT_communism_independence_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10%§!\n$MODIFIER_MAX_PLANNING$: §G+10%§!\n$MODIFIER_SURRENDER_LIMIT$: §G+10%§!\n$democratic_drift$: §G-0.03§!\n$fascism_drift$: §G-0.03§!\n$neutrality_drift$: §G-0.03§!\n$communism_drift$: §G-0.03§!"
+ 
+ UKR_anarchist_independence_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10%§!\n$MODIFIER_MAX_PLANNING$: §G+10%§!\n$democratic_drift$: §G-0.03§!\n$fascism_drift$: §G-0.03§!\n$neutrality_drift$: §G-0.03§!\n$communism_drift$: §G+0.07§!"
+ 
+ UKR_anarchist_independence_2_tt:0 "§Y乌克兰军队§!追加效果：\n$communism_drift$: §G+0.10§!"
+ 
+ UKR_anarchist_alina_join_tt:0 "§Y乌克兰军队§!追加效果：\n$communism_drift$: §R-0.10§!"
+ 
+ UKR_modernization_of_the_armed_forces:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_EXPERIENCE_LOSS_FACTOR$: §G-25%§!\n$modifier_army_sub_unit_militia_defence_factor$: §R-5%§!\n$modifier_army_sub_unit_militia_max_org_factor$: §R-5%§!\n$modifier_army_sub_unit_irregular_infantry_defence_factor$: §R-5%§!\n$modifier_army_sub_unit_irregular_infantry_max_org_factor$: §R-5%§!"
+ 
+ UKR_Eastern_Ukrainian_Doctrine_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+5%§!"
+ 
+ UKR_Flexible_tactical_organization_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_PLANNING_SPEED$: §G+10%§!\n$MODIFIER_ARMY_MORALE_FACTOR$: §G+10%§!"
+ 
+ UKR_besiege_and_annihilate_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_ARMOR_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_MOTORIZED_ATTACK_FACTOR$: §G+10%§!"
+ 
+ UKR_air_ground_co_operation_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_RECON_FACTOR$: §G+5%§!\n$MODIFIER_AIR_CAS_PRESENT_FACTOR$: §G+10%§!"
+ 
+ UKR_Armored_Cossack_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_ARMY_ARMOR_DEFENCE_FACTOR$: §G+5%§!\n$MODIFIER_MECHANIZED_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_MECHANIZED_DEFENCE_FACTOR$: §G+10%§!"
+ 
+ UKR_Western_Ukrainian_Doctrine_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_MAX_DIG_IN$: §G+5§!"
+ 
+ UKR_trench_warfare_thinking_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_DIG_IN_SPEED_FACTOR$: §G+20%§!\n$MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR$: §G+10%§!"
+ 
+ UKR_Infiltration_Assault_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_MAX_PLANNING$: §G+10%§!\n$MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_ARTILLERY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_LAND_NIGHT_ATTACK$: §G+10%§!"
+ 
+ UKR_Sich_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_MOBILIZATION_SPEED$: §G+20%§!\n$MODIFIER_TRAINING_TIME_FACTOR$: §G+10%§!\n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+10%§!"
+ 
+ UKR_Natsionalna_hvardiya_Ukrayiny_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y+1%§!\n$modifier_army_sub_unit_militia_max_org_factor$: §G+10%§!"
+ 
+ UKR_more_reservists_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y+2%§!\n$modifier_army_sub_unit_militia_max_org_factor$: §R-5%§!"
+ 
+ UKR_elite_troops_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_XP_GAIN_FACTOR$: §G+5%§!\n$MODIFIER_MECHANIZED_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_SPECIAL_FORCES_CAP$: §G+2%§!\n$modifier_army_sub_unit_militia_attack_factor$: §G+5%§!"
+
+ UKR_Mobilization_of_the_militia:0 "动员国土防卫旅"
+ UKR_Mobilization_of_the_militia_desc:0 "在独立战争中响应召唤的民兵们在解散后一直作为紧急预备队存在，现在正是再度投入战斗的时候了！"
+ 
+ UKR_Modernized_militia_forces:0 "现代化民兵武装"
+ UKR_Modernized_militia_forces_desc:0 "见证了乌克兰民族的决心后[ROOT.GetFactionName]已经决定提供更多支援，一部分物资会用来加强战线上众多的动员部队保障他们不被敌军随意击溃。"
+
+ UKR_Mobilization_of_the_militia_flag:0 "已完成§Y$UKR_Mobilization_of_the_militia$§!国策" 
+ UKR_Modernized_militia_forces_tt:0 "当前天数为：[?UKR_Mobilization_of_the_militia_flag:days|Y0]" 
+ 
+ UKR_Modernized_militia_forces_2_tt:1 "为所有国土防卫旅的支援连添加§Y1个$engineer$§!，§Y1个$recon$§!和§Y1个$artillery$§!\n前线营添加§Y2个$militia$§!，§Y1个$irregular_infantry$§!和§Y1个$artillery_brigade$§!" 
+ 
+ UKR_Modernized_militia_forces_3_tt:0 "§Y乌克兰军队§!追加效果：\n$modifier_army_sub_unit_militia_defence_factor$: §G+5%§!\n$modifier_army_sub_unit_irregular_infantry_defence_factor$: §G+5%§!"
+ 
+ UKR_Mobilize_the_Cossacks:0 "征募哥萨克骑兵"
+ UKR_Mobilize_the_Cossacks_desc:0 "哥萨克骑兵依然会响应号召加入战斗，但是在愈加强大的宿敌面前他们可能作用有限，而我们能够提供的现代化装备同样非常有限。"
+ 
+ UKR_Regroup_the_Army_Armored_Cavalry_Regiment:0 "重组机械化骑兵"
+ UKR_Regroup_the_Army_Armored_Cavalry_Regiment_desc:0 "见证了乌克兰民族的决心后[ROOT.GetFactionName]愿意帮助我军组建机械化部队。"
+ 
+ UKR_Mobilize_the_Cossacks_flag:0 "已完成§Y$UKR_Mobilize_the_Cossacks$§!国策" 
+ UKR_Regroup_the_Army_Armored_Cavalry_Regiment_tt:0 "当前天数为：[?UKR_Mobilize_the_Cossacks_flag:days|Y0]"  
