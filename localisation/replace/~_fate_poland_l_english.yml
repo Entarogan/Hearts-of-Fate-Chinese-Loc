@@ -502,6 +502,10 @@
  POL_Polscy_Zydzi_expropriated:0 "波兰犹太人财产被剥夺"
  POL_Polscy_Zydzi_expropriated_desc:0 "民族民主党人当权之后，使用政府暴力剥夺了波兰相当数量犹太人的财产。相当数量的犹太人被迫参与高强度的劳动，或者逃离这个国家。"
 
+ PSL_sympathizer:0 "人民党同情者"
+ Cynic:0 "愤世嫉俗者"
+ national_hero_pol:0 "战争英雄"
+
  wait_for_unlock_by_other_focuses_tt:0 "§R等待其他国策解锁该国策§!"
  wait_for_unlock_by_events_tt:0 "§R等待事件解锁该国策§!"
  Poland_more_like_dmowski_tt:0 "§Y波兰变得更像德莫夫斯基心目中的国家§!"
@@ -669,6 +673,11 @@
  POL_codify_national_unity_hof:0 "将民族团结写入法典"
  POL_protect_greater_poland:0 "保卫大波兰"
 
+ POL_land_reform_time_depends_on_path_tt:0 "§Y土地改革所需的时间和成果与当前政府的构成相关§!"
+ POL_PSL_purged:0 "波兰人民党的相关人员遭到清洗"
+ POL_national_industries:0 "波兰国营工业"
+ POL_national_industries_desc:0 "波兰共和国刚成立时国有化了一部分外国企业。随着国有化进程的推进，波兰的国营企业规模正在逐步扩大，但是要完成波兰的全面工业化仍然任重道远。"
+ POL_occupied_Belarus_Ukraine_Germany_compliance_tt:0 "控制的§Y白俄罗斯§!、§Y立陶宛§!、§Y乌克兰§!、§Y德国§!的核心领土§G顺从度增加20%§!"
 
- 
+
 
