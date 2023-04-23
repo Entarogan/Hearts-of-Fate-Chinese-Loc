@@ -1658,3 +1658,25 @@
  
  
  SOV_RUS_Siberia_war_zone:0 "俄罗斯内战动员"
+ 
+ 
+ home_of_revolution_victory:0 "革命始源地"
+ home_of_revolution_victory_desc:0 "同志们，在彻底终结白军和乌克兰民族主义者的威胁后，保卫革命已经实现了一大阶段性胜利。现在终于可以将精力转移到统一的社会主义国家建设方面。用不了多久世人都将拜服于我们的成就，距离革命的真正实现业已不再遥远。"
+ 
+ home_of_revolution_victory_butnoukr:0 "革命始源地"
+ home_of_revolution_victory_butnoukr_desc:0 "同志们，在彻底终结白军后，保卫革命已经实现了一大阶段性胜利。现在终于可以将精力转移到统一的社会主义国家建设方面。用不了多久世人都将拜服于我们的成就，距离革命的真正实现业已不再遥远。\n\n乌克兰必须被毁灭！"
+ 
+ UKR_still_on_earth_flag:0 "§R乌克兰于第二次俄罗斯内战中独立§!"
+ 
+ SOV_Extreme_mobilization:0 "极限总动员"
+ SOV_Extreme_mobilization_desc:0 "布尔什维克所创造的苏式共产主义体制在一类观点上被认作是鲁登道夫所创总体战体制的衍生，它将调动现代国家的最大潜力去激活战争机器，在单纯的国力比拼中促使我们占尽优势。"
+ 
+ SOV_Extreme_mobilization_idea:0 "极限总动员"
+ SOV_Extreme_mobilization_idea_desc:0 ""
+ 
+ 
+ SOV_For_the_motherland:0 "为了祖国！"
+ SOV_For_the_motherland_desc:0 "无数发生在前线的事实证明，想要号召俄罗斯人民起来抗击外敌入侵，没有什么比一句“为了祖国母亲”更适合了。因此在宣传上暂且采用民族主义也并非不可，哪怕这会对共产主义意识形态造成一定“微小的冲击”。"
+ 
+ SOV_For_the_motherland_idea:0 "为了祖国！"
+ SOV_For_the_motherland_idea_desc:0 "为了祖国！为了胜利！"

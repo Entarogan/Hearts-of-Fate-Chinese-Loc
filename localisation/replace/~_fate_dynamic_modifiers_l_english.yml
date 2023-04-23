@@ -49,16 +49,21 @@
  SOV_form_the_stavka:0 "最高统帅部" 
  SOV_form_the_stavka_desc:0 "一支史上规模最大的军队没有一个令行禁止的统帅部是不行的，以[SOV.GetLeader]为核心加上数名三军高级指挥官组成的最高统帅部将保障大规模战役策划的有序进行。"
  
- SOV_form_the_stavka_tt:0 "§Y苏维埃红军§!追加效果：\n$MODIFIER_MAX_PLANNING$: §G+5%§!\n$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-10%§!\n$MODIFIER_TRAINING_TIME_FACTOR$: §G-10%§!"
+ SOV_form_the_stavka_tt:0 "§Y苏维埃红军§!追加效果：\n$MODIFIER_MAX_COMMAND_POWER$: §G+25§!\n$MODIFIER_MAX_PLANNING$: §G+5%§!\n$MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-10%§!\n$MODIFIER_TRAINING_TIME_FACTOR$: §G-10%§!"
  
  SOV_Modernization_of_the_Red_Army:0 "红军现代化"
  SOV_Modernization_of_the_Red_Army_desc:0 "我军对于技术兵器的使用水平堪称灾难，不能再任由这种情况发展下去了。"
  
  SOV_Modernization_of_the_Red_Army_tt:0 "§Y苏维埃红军§!追加效果：\n$MODIFIER_ARMY_ARMOR_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_ARMOR_DEFENCE_FACTOR$: §G+10%§!"
  
+ SOV_Modernization_of_the_Red_Army_2_tt:0 "§Y苏维埃空军§!追加效果：\n$MODIFIER_AIR_AGILITY_FACTOR$: §G+5%§!\n$MODIFIER_AIR_DEFENCE_FACTOR$: §G+10%§!"
+ 
  SOV_organization_of_the_partisans_1_ns_tt:0 "§Y苏维埃红军§!追加效果：\n$MODIFIER_OPERATIVE_SLOT$: §G+1§!" 
  
  SOV_experts_in_camouflage_1_tt:0 "§Y苏维埃红军§!追加效果：\n$MODIFIER_CAS_DAMAGE_REDUCTION$: §G+5%§!\n$MODIFIER_MAX_DIG_IN$: §G+5§!\n$MODIFIER_DIG_IN_SPEED_FACTOR$: §G+5%§!"
+ 
+ SOV_commissars_organization_question:0 "政治委员问题" 
+ SOV_commissars_organization_question_desc:0 "广泛存在于军中的政治委员影响相当大，面对当前战局，最高领导人决定做出一些调整。" 
  
  SOV_Fieldrunners:0 "坚守阵地" 
  SOV_Fieldrunners_desc:0 "祖国虽大但我们无路可退，绝不后撤！" 
@@ -83,10 +88,28 @@
  
  SOV_Simplify_production_flag:0 "已完成§Y$SOV_Simplify_production$§!国策" 
  SOV_Simplify_production_flag_tt:0 "当前天数为：[?SOV_Simplify_production_flag:days|Y0]"
-
+ 
+ SOV_Tank_Group_Army:0 "坦克集团军" 
+ SOV_Tank_Group_Army_desc:0 "绝对数量优势的坦克部队组成的钢铁洪流是伟大红军的制胜关键，欧洲平原上没有谁能抵挡它的突破攻势。" 
+ 
+ #SOV_Tank_Group_Army_available_tt:0 "Have at least §G5,000§! §YMedium tanks§! in divisions in the field.\n"
+ 
+ SOV_Tank_Group_Army_available_tt:0 "部署至少 §G2,500§! §Y中型坦克§! 在战场上\n"
+ 
+ SOV_Tank_Group_Army_tt:0 "§Y苏维埃红军§!追加效果：\n$MODIFIER_ARMY_ARMOR_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_ARMY_ARMOR_DEFENCE_FACTOR$: §G+10%§!"
+ 
+ SOV_increase_aircraft_production_flag:0 "已完成§Y$SOV_increase_aircraft_production$§!国策" 
+ SOV_increase_aircraft_production_flag_tt:0 "当前天数为：[?SOV_increase_aircraft_production_flag:days|Y0]"
+ 
  SOV_Aviation_Group_Army:0 "航空集团军" 
  SOV_Aviation_Group_Army_desc:0 "苏维埃空军同样是由多支集团军组成的部队，足够的数量将会淹没任何敌军空中单位。" 
  
+ SOV_Aviation_Group_Army_available_tt:0 "部署至少 §G2,500§! §Y战斗机§! §G1,000§! §Y近距支援机§! §G500§! §Y战术轰炸机§! 在战场上\n"
+ 
+ SOV_Infantry_Corps:0 "步兵集团军" 
+ SOV_Infantry_Corps_desc:0 "步兵永远是我军的核心力量，无论何时都将在任何一条战线取得数量优势。" 
+ 
+ SOV_Infantry_Corps_available_tt:0 "部署至少 §G150,000§! §Y步兵装备§! 在战场上\n"
  
  SOV_Assault_Group_Army:0 "突击集团军" 
  SOV_Assault_Group_Army_desc:0 "突击集团军是由良好协同的多兵种组成的大型军事编制，理论上它的火力强度足以在前进的路上碾碎一切敌人，仅需要后方提供充足的保障————对我们来说这自然不是什么问题。" 
@@ -99,6 +122,7 @@
  
  SOV_Military_education_is_supreme_tt:0 "§Y苏维埃红军§!追加效果：\n$MODIFIER_MAX_PLANNING$: §G+5%§!\n$MODIFIER_XP_GAIN_ARMY_FACTOR$: §G+10%§!\n$MODIFIER_LAND_DOCTRINE_COST_FACTOR$: §G-15%§!"
  
+ SOV_Put_into_the_Black_Sea_Fleet_tt:0 "§Y苏维埃红军§!追加效果：\n$MODIFIER_NAVAL_INVASION_CAPACITY$: §G+15§!\n$MODIFIERS_ARMY_INFANTRY_ATTACK_FACTOR$: §G+5%§!"
  
  
  HOF_SOV_soviet_airforce_dynamic_modifier:0 "苏维埃空军"
@@ -124,6 +148,7 @@
 
  SOV_Aviation_Group_Army_tt:0 "§Y苏维埃空军§!追加效果：\n$MODIFIER_AIR_NIGHT_PENALTY$: §G-10%§!\n$MODIFIER_AIR_MISSION_EFFICIENCY$: §G+10%§!" 
  
+ SOV_World_revolution_tt_2:0 "§Y苏维埃红军§!追加效果：\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+5%§!\n$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: §G-20%§!" 
  
  
  
@@ -161,7 +186,7 @@
  rus_GK_PMC:0 "格里芬和克鲁格" 
  rus_GK_PMC_desc:0 "我军在极其有限的资源下保持着战斗力，很大一部分功劳应该归于克鲁格将军的运作，因此[ROOT.Getleader]进一步授意克鲁格先生正式以忠诚的雇佣兵为基础组建“安全承包公司”广纳世界人才，只要提供足够的报酬一定就能获得最强的战斗力。" 
 
- rus_GK_PMC_tt:0 "§Y俄罗斯陆军§!追加效果：\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §G+5%§!\n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5%§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §G+1%§!"
+ rus_GK_PMC_tt:0 "§Y俄罗斯陆军§!追加效果：\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIERS_ARMY_DEFENCE_FACTOR$: §G+5%§!\n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5%§!\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §R+1%§!"
 
  rus_Bear_PMC:0 "遭遇战突击团" 
  rus_Bear_PMC_desc:0 "克鲁格拒绝为新政权服务，但是现任最高权力者[ROOT.Getleader]依然决定创建一个“安全承包公司”作为私兵部队使用，其明面上的领导者是斯皮里东·普京，他是[ROOT.Getleader]身边最忠诚的厨师。可能会有人质疑这次任命的合理性，但是普京先生的能力并不重要，上情下达，他是专业的。" 
@@ -263,10 +288,10 @@
  
  
  
- RUS_experts_in_camouflage:0 "伪装糕手"
+ RUS_experts_in_camouflage:0 "伪装高手"
  RUS_experts_in_camouflage_desc:0 "" 
  
- SOV_experts_in_camouflage_1_tt:0 "§Y俄罗斯陆军§!追加效果：\n$MODIFIER_CAS_DAMAGE_REDUCTION$: §G+5%§!\n$MODIFIER_MAX_DIG_IN$: §G+5§!\n$MODIFIER_DIG_IN_SPEED_FACTOR$: §G+5%§!" 
+ RUS_experts_in_camouflage_1_tt:0 "§Y俄罗斯陆军§!追加效果：\n$MODIFIER_CAS_DAMAGE_REDUCTION$: §G+5%§!\n$MODIFIER_MAX_DIG_IN$: §G+5§!\n$MODIFIER_DIG_IN_SPEED_FACTOR$: §G+5%§!" 
  
  
  RUS_Whatever_it_takes:0 "不惜一切代价"
@@ -294,6 +319,9 @@
  RUS_Armored_Infantry:0 "装甲化步兵"
  RUS_Armored_Infantry_desc:0 "俄罗斯军队庞大数量的步兵如果都能得到步兵战车的掩护就不再是灰色牲口了，比起坦克这更应当成为我军专注发展的目标。"
  
+ RUS_the_iron_wall_of_russian_resolve:0 "俄罗斯信念的铁壁"
+ RUS_the_iron_wall_of_russian_resolve_desc:0 ""
+ 
  RUS_Armored_Infantry_tt:0 "§Y俄罗斯陆军§!追加效果：\n$MODIFIER_MECHANIZED_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_MECHANIZED_DEFENCE_FACTOR$: §G+5%§!"
  
  RUS_Army_equipment_simplifies_production_mech_idea:0 "陆军装备简化生产" 
@@ -309,9 +337,14 @@
  RUS_intensify_pilot_training_program_tt:0 "§Y俄罗斯空军§!追加效果：\n$MODIFIER_AIR_ACCIDENTS_FACTOR$: §G-10%§!\n$MODIFIER_AIR_ACE_GENERATION_CHANCE_FACTOR$: §G+5%§!\n$MODIFIER_AIR_WEATHER_PENALTY$: §G-5%§!\n$MODIFIER_AIR_NIGHT_PENALTY$: §G-5%§!\n$MODIFIER_AIR_WING_XP_LOSS_WHEN_KILLED_FACTOR$: §G-10%§!"
 
  #RUS_intensify_pilot_training_program_desc:0 "划时代的突破！西科斯基完成了他真正的重量级设计，“直升机”将可以在原地完成起飞和降落，也就是说不再需要机场，此种新式飞行器将立即加入支援部队用于侦察及搜救。部分军方人士亦认为此种飞机或许可以搭载重型机炮给予敌军地面部队如同暴雨般的持续火力输出因此加大了经费投入...但那或许太过于遥远了。"
+
+ RUS_increase_aircraft_production_flag:0 "已完成§Y$RUS_increase_aircraft_production$§!国策" 
+ RUS_increase_aircraft_production_flag_tt:0 "当前天数为：[?RUS_increase_aircraft_production_flag:days|Y0]"
  
  RUS_Russian_Air_Force_morden:0 "俄罗斯空天军"
  RUS_Russian_Air_Force_morden_desc:0 "如今的俄罗斯空军经历了大战的洗礼已经成为了一支从质量和数量上完全压到敌人的强大空军部队，因此或许应该叫做空天军更为合适。"
+ 
+ RUS_Russian_Air_Force_morden_available_tt:0 "部署至少 §G2,000§! §Y战斗机§! §G500§! §Y近距支援机§! §G500§! §Y战术轰炸机§! 在战场上\n"
  
  RUS_Russian_Air_Force_morden_tt:0 "§Y俄罗斯空军§!追加效果：\n$MODIFIER_STRATEGIC_BOMBER_BOMBING_FACTOR$: §G+10%§!"
  
