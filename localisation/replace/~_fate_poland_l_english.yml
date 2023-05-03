@@ -731,7 +731,83 @@
  POL_shining_arknights:0 "闪灵"
  
  POL_Powerful_President:0 "强有力的总统"
+
+ POL_PPS_name:0 "波兰社会党"
+ POL_PPS_name_Long:0 "波兰社会党"
+ POL_SN_name:0 "民族党"
+ POL_SN_name_Long:0 "民族党"
+ POL_SP_name:0 "工党"
+ POL_SP_name_Long:0 "工党"
+
+ POL_RUSK:0 "乌克兰合作社联盟"
+ POL_RUSK_desc:0 "乌克兰合作社联盟愿意与政府合作，但是第一目标仍然是保护乌克兰农民的利益。"
+
+ POL_will_lock_balance_of_power_tt:0 "§R完成此国策会锁定权力平衡§Y波兰民族主义§!的值，不会再因为点击国策而变化。§!"
+ POL_protect_greater_poland:0 "乌克兰合作社联盟"
+ POL_AS_institution_will_remain_in_many_cases_tt:0 "§G即便政府发生变化，这一改革也有可能保留下来。§!"
+ POL_Lex_Grabski:0 "格拉布斯基法案"
+ POL_Lex_Grabski_desc:0 "著名的“格拉布斯基法案”是1926年人民党和民族民主党的联合政府颁布的一系列法令的统称，由民族民主党的重要人物斯坦尼斯拉夫·格拉布斯基起草。这些法令要求所有教授少数民族语言的学校也必须同时教授波兰语。很多少数民族，尤其是乌克兰人将其视作一种民族压迫。"
+ POL_Lex_Grabski_enhanced:0 "强化的格拉布斯基法案"
+ POL_Lex_Grabski_enhanced_desc:0 "著名的“格拉布斯基法案”是1926年人民党和民族民主党的联合政府颁布的一系列法令的统称，由民族民主党的重要人物斯坦尼斯拉夫·格拉布斯基起草。这些法令要求所有教授少数民族语言的学校也必须同时教授波兰语。这一法案如今已经得到强化，相信不久的将来波兰语将成为这个国家绝大多数地区的唯一通用语言。"
+
+ poland_hof.55.t:0 "波兰寻求政治和解"
+ poland_hof.55.d:0 "波兰一直被视为乌克兰国家的殖民者和侵略者，但是与此同时，波兰也是我们作为一个独立国家的榜样。由于俄罗斯和德国对我国的生存的威胁似乎更大，波兰方面主动提出与我国进行政治和解。由于波兰方面之前的政策已经释放出了一定诚意，一部分人认为是时候和波兰暂时寻求和解，共同抵抗来自东面或者西面的威胁了。"
+ poland_hof.55.a:0 "很好"
+ poland_hof.55.b:0 "不能忘记波兰人对我们做了什么"
+ UKR_POL_rapprochement_flag:0 "波兰-乌克兰政治和解"
+ POL_will_ban_UKR_agression_tt:0 "乌克兰如果同意，其国策§Y夺取西乌克兰§!将被锁定。"
+
+ poland_hof.56.t:0 "乌克兰同意和解"
+ poland_hof.56.d:0 "乌克兰方面表示愿意与我国进行政治和解，暂时搁置与我们关于利沃夫的领土争端。"
+ poland_hof.56.a:0 "很好。"
  
+ poland_hof.57.t:0 "乌克兰拒绝和解"
+ poland_hof.57.d:0 "乌克兰方面拒绝与我国进行政治和解。"
+ poland_hof.57.a:0 "混账。"
+
+ poland_hof.58.t:0 "[FROM.GetName]向我国表达支持"
+ poland_hof.58.d:0 "[FROM.GetName]近期向我国的复国事业表达了坚定的支持，并且宣称将帮助本国犹太人“前往我国进行建设”。很显然，波兰人只是想把我们的同胞从波兰送出去以尽快摆脱他们。然而，无论如何，这对于我国仍是大有裨益的。我们需要向他们提供一定的技术援助，以换取他们继续支持锡安主义事业。"
+ poland_hof.58.a:0 "谢谢他们"
+
+ poland_hof.59.t:0 "[FROM.GetName]提供技术援助"
+ poland_hof.59.d:0 "为了感谢我们对锡安主义事业的支持，[FROM.GetName]向我们派出了一个由精英学者组成的顾问团。作为回报，他们希望我们继续支持锡安主义事业。"
+ poland_hof.59.a:0 "很好"
+
+ POL_No_Government_repression_anymore_flag:0 "§R不再允许政府武力推翻选举结果！§!"
+ POL_Morges_make_half_PSL_influence_to_Sanacja_when_election:0 "选举时，§O波兰人民党§!的§G政治力量的一半§!将被加到§g萨纳奇§!上"
+ POL_Morges_make_half_Endecja_influence_to_Sanacja_when_election:0 "选举时，§8民族党§!的§G政治力量的一半§!将被加到§g萨纳奇§!上"
+ POL_1937_strike_SOV_tt:0 "§R1937年我们将会在俄罗斯内战期间对[SOV.GetName]发动入侵以将势力圈拓展到白俄罗斯！§!"
+
+ poland_hof.60.t:0 "[FROM.GetName]寻求援助"
+ poland_hof.60.d:0 "[FROM.GetName]近日向我国发了一封官方文书，为了解决“犹太人问题”向我国请求援助。[FROM.GetName]声称，《少数民族保护法案》是我国参与强迫他们签署的，但是我国并没有帮助他们改善犹太人的生存状况。这使得他们无法再保证境内犹太人的生存状况。我们应该如何回应？"
+ poland_hof.60.a:0 "提供经济援助"
+ poland_hof.60.b:0 "提供犹太人移民份额"
+ poland_hof.60.c:0 "这得他们自己解决"
+
+ poland_hof.61.t:0 "[FROM.GetName]提供经济援助"
+ poland_hof.61.d:0 "[FROM.GetName]提供了经济援助以用于缓解我国国内犹太人的生存危机，但是派出了一个代表团监督这些款项的使用。"
+ poland_hof.61.a:0 "太好了"
+
+ poland_hof.62.t:0 "[FROM.GetName]提供犹太人移民份额"
+ poland_hof.62.d:0 "[FROM.GetName]提供了犹太人移民份额，这样在我国无法找到生计的犹太人可以去他们那里另谋生路。"
+ poland_hof.62.a:0 "至少他们有地方去"
+
+ poland_hof.63.t:0 "[FROM.GetName]无动于衷"
+ poland_hof.63.d:0 "[FROM.GetName]拒绝提供帮助，声称他们自己也很困难，而且犹太人的生存状况是我们自己的事。"
+ poland_hof.63.a:0 "伪善的家伙们"
+
+ POL_Anti_Russia_Pact:0 "反俄协议"
+ POL_Anti_Russia_Pact_desc:0 "守林人将领导我们彻底摧毁俄罗斯民族以及它的帮凶们。"
+ POL_Firewatch_land_battle:0 "守林人陆战技术"
+ POL_Firewatch_land_battle_tt:0 "§G轻步兵在平原和森林攻击+15%，移动+10%§!"
+
+ POL_join_germany_faction_hof:0 "加入德国阵营"
+ RUS_POL_rapprochement_flag:0 "波兰-俄罗斯互不侵犯条约已签订"
+
+ the_king_of_the_castle:0 "城堡里的新国王"
+ the_new_Pilsudski:0 "当代的毕苏斯基"
+ Cold_Blooded_agent:0 "冷血特工"
+
 
 
 
