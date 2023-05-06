@@ -1680,3 +1680,38 @@
  
  SOV_For_the_motherland_idea:0 "为了祖国！"
  SOV_For_the_motherland_idea_desc:0 "为了祖国！为了胜利！"
+ 
+ 
+ RUS_Develop_Industry_In_Moscow:0 "在[219.GetName]发展工业"
+ RUS_Develop_Industry_In_Moscow_desc:0 ""
+ 
+ RUS_Develop_Industry_In_Petersburg:0 "在[195.GetName]发展工业"
+ RUS_Develop_Industry_In_Petersburg_desc:0 ""
+ 
+ RUS_Develop_Industry_In_Kharkov:0 "在[221.GetName]发展工业"
+ RUS_Develop_Industry_In_Kharkov_desc:0 ""
+ 
+ RUS_Develop_Industry_In_Donetsk:0 "在[227.GetName]发展工业"
+ RUS_Develop_Industry_In_Donetsk_desc:0 ""
+ 
+ RUS_Develop_Industry_In_Luhansk:0 "在[228.GetName]发展工业"
+ RUS_Develop_Industry_In_Luhansk_desc:0 ""
+ 
+ RUS_Develop_Industry_In_Kyiv:0 "在[202.GetName]发展工业"
+ RUS_Develop_Industry_In_Kyiv_desc:0 ""
+ 
+ 
+ RUS_Collecting_food_In_Ukr:0 "在乌克兰征粮"
+ RUS_Collecting_food_In_Ukr_desc:0 ""
+ 
+ SOV_RUS_Ukrainian_granary_idea:0 "乌克兰粮仓"
+ 
+ RUS_Develop_Industry_In_Dnipro:0 "第聂伯水电站建设"
+ RUS_Develop_Industry_In_Dnipro_desc:0 ""
+ 
+ SOV_Legacy_of_the_Great_Famine_nostalin_desc:0 "作为朱加什维利政治遗产的大饥荒的确是不存在了，但是它实际上的影响依然犹如乌云般笼罩在这片广袤的大地之上，也许需要很长的时间才能消退吧。"
+ 
+ SOV_Legacy_of_the_Great_Famine_stalindied:0 "作为明显的朱加什维利继业者，叶若夫只能接过大饥荒带来的政治遗产，当然一切总会有解决办法。"
+ 
+ SOV_road_to_Berlin_decisions:0 "通向柏林之路"
+ SOV_road_to_Berlin_decisions_desc:0 "与乌克兰民族主义者勾结的德国人民主义政权必须被毁灭，不过我们和他们之间还隔着一个同样该被毁灭的东西。"

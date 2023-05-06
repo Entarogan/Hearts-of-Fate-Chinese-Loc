@@ -1207,3 +1207,9 @@
  
  Defler_of_sun_god:0 "天照大神的蔑视者"
  self_styled_All_Russian_Tsar:0 "自封的全俄女皇"
+ 
+ 
+ 
+ RUS_Helicopter_Experiment_research:0 "直升机开发"
+ RUS_Experimental_helicopter_tech_tooltip:0 "尽管问题繁多，直升机依然能为特种部队行动以及常规侦察和野战救护提供便利。"
+ RUS_Experimental_helicopter_tech:0 "实验型直升机"
