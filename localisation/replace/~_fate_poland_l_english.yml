@@ -633,7 +633,7 @@
  POL_Morges_Cautious_Economics:0 "谨慎的经济学"
  POL_Morges_Befriend_France:0 "对法友好"
  POL_Morges_Expand_Hospitals:0 "扩建医院"
- POL_Befriend_Japan:0 "POL_Befriend_Japan"
+ POL_Befriend_Japan:0 "对日友好"
  POL_Politics_Rationalisation:0 "政治理性化"
  POL_Endecja_Politics_Rationalisation:0 "政治理性化"
  POL_Endecja_Business_and_Science:0 "商业与科学"
@@ -717,6 +717,7 @@
  POL_expand_central_industrial_region_hof:0 "发展中央波兰工业区"
  POL_codify_national_unity_hof:0 "将民族团结写入法典"
  POL_protect_greater_poland:0 "保卫大波兰"
+ POL_conduct_Prometeizm:0 "执行普罗米修斯计划"
 
  POL_land_reform_time_depends_on_path_tt:0 "§Y土地改革所需的时间和成果与当前政府的构成相关§!"
  POL_PSL_purged:0 "波兰人民党的相关人员遭到清洗"
@@ -749,6 +750,8 @@
  POL_Lex_Grabski_desc:0 "著名的“格拉布斯基法案”是1926年人民党和民族民主党的联合政府颁布的一系列法令的统称，由民族民主党的重要人物斯坦尼斯拉夫·格拉布斯基起草。这些法令要求所有教授少数民族语言的学校也必须同时教授波兰语。很多少数民族，尤其是乌克兰人将其视作一种民族压迫。"
  POL_Lex_Grabski_enhanced:0 "强化的格拉布斯基法案"
  POL_Lex_Grabski_enhanced_desc:0 "著名的“格拉布斯基法案”是1926年人民党和民族民主党的联合政府颁布的一系列法令的统称，由民族民主党的重要人物斯坦尼斯拉夫·格拉布斯基起草。这些法令要求所有教授少数民族语言的学校也必须同时教授波兰语。这一法案如今已经得到强化，相信不久的将来波兰语将成为这个国家绝大多数地区的唯一通用语言。"
+ BMN_idea:0 "国家少数民族集团"
+ BMN_idea_desc:0 "国家少数民族集团是由乌克兰人、白俄罗斯人、犹太人和德国人组成的关注少数民族利益的政治集团。获得该集团的支持会使得政府在少数民族地区受到更多的欢迎，但是也会导致政府在指定政策的时候遭到掣肘。"
 
  poland_hof.55.t:0 "波兰寻求政治和解"
  poland_hof.55.d:0 "波兰一直被视为乌克兰国家的殖民者和侵略者，但是与此同时，波兰也是我们作为一个独立国家的榜样。由于俄罗斯和德国对我国的生存的威胁似乎更大，波兰方面主动提出与我国进行政治和解。由于波兰方面之前的政策已经释放出了一定诚意，一部分人认为是时候和波兰暂时寻求和解，共同抵抗来自东面或者西面的威胁了。"
@@ -796,6 +799,43 @@
  poland_hof.63.d:0 "[FROM.GetName]拒绝提供帮助，声称他们自己也很困难，而且犹太人的生存状况是我们自己的事。"
  poland_hof.63.a:0 "伪善的家伙们"
 
+ poland_hof.64.t:0 "[FROM.GetName]邀请我们加入反俄条约"
+ poland_hof.64.d:0 "随着[FROM.GetName]逐渐走向激进的反俄主义，他们一直在大肆宣传来自东部俄罗斯的威胁，并且试图拉拢我们对抗俄国人。俄国对于我国的威胁一直是真实存在的，但是是否需要加入他们以武装对抗俄罗斯则是由我们自己决定。"
+ poland_hof.64.a:0 "加入"
+ poland_hof.64.b:0 "拒绝"
+
+ poland_hof.65.t:0 "[FROM.GetName]同意加入反俄条约"
+ poland_hof.65.d:0 "[FROM.GetName]同意加入了我们的反俄协定，我们将一同对付俄国人。"
+ poland_hof.65.a:0 "很好"
+
+ poland_hof.66.t:0 "[FROM.GetName]拒绝加入反俄条约"
+ poland_hof.66.d:0 "[FROM.GetName]拒绝加入反俄条约以对抗俄国人。"
+ poland_hof.66.a:0 "混账！"
+ poland_hof.66.b:0 "那我们就先对付他们"
+
+ poland_hof.67.t:0 "守林人政变"
+ poland_hof.67.d:0 "守林人在指控了她曾经的朋友陨星并且导致了陨星被以叛国罪处死之后，变得愈发偏执、多疑。她凭借在民族党内逐渐壮大的地位摄取了大量本来属于恰尔内的政治资源。随着德莫夫斯基的去世，守林人终于可以排除恰尔内这个阻碍她实现她的最终复仇计划的障碍了。恰尔内曾经利用守林人的偏执排除了陨星，但如今自己也成为了受害者。恰尔内在正式就职后的两天被发现在家中自杀，而守林人则被推举为新的总统。"
+ poland_hof.67.a:0 "通往复仇之路"
+
+ poland_hof.68.t:0 "国家少数民族集团加入政府？"
+ poland_hof.68.d:0 "国家少数民族集团（Blok Mniejszości Narodowych，BMN）是波兰国家最大的少数民族政治集团，由处于边缘地位的白俄罗斯人、乌克兰人、犹太人和德国人组成，曾经一度成为波兰共和国的第二大政党。在毕苏斯基发动政变以后，BMN变得四分五裂，逐渐失去了政治影响力。随着波兰民主制度的恢复，国家少数民族集团又重整旗鼓，赢得了相当数量的少数民族支持。将该集团的人士请进政府，获得该集团的支持会使得政府在少数民族地区受到更多的欢迎，但是也会导致政府在指定政策的时候遭到掣肘。"
+ poland_hof.68.a:0 "我们需要他们的支持。"
+ poland_hof.68.b:0 "没他们我们也能搞得很好。"
+
+ poland_hof.69.t:0 "人民党政府选举"
+ poland_hof.69.d:0 "在近期的全国范围内的选举中，人民党政府依然获得了压倒性的优势。然而，在执政联盟内部，有更多的人物被认为可以接替索娜·焰尾担任总统。也许人民会期待一个风格不一样的政府。"
+ poland_hof.69.a:0 "索娜·焰尾继续担任总统。"
+ poland_hof.69.b:0 "谢斯切娜·瓦伦汀担任总统"
+ poland_hof.69.c:0 "来自BMN的守林人担任总统"
+ poland_hof.69.e:0 "“白金”欣德莱亚担任总统"
+
+ poland_hof.70.t:0 "社会党政府选举"
+ poland_hof.70.d:0 "在近期的全国范围内的选举中，中左同盟联合政府依然获得了压倒性的优势。然而，在执政联盟内部，有更多的人物被认为可以接替娜塔莉亚·卡明斯卡担任总统。也许人民会期待一个风格不一样的政府。"
+ poland_hof.70.a:0 "娜塔莉亚·卡明斯卡继续担任总统。"
+ poland_hof.70.b:0 "来自人民党的伊奥娜·克鲁科夫斯卡担任总统"
+ poland_hof.70.c:0 "来自崩得的陨星担任总统"
+ poland_hof.70.e:0 "“白金”欣德莱亚担任总统"
+
  POL_Anti_Russia_Pact:0 "反俄协议"
  POL_Anti_Russia_Pact_desc:0 "守林人将领导我们彻底摧毁俄罗斯民族以及它的帮凶们。"
  POL_Firewatch_land_battle:0 "守林人陆战技术"
@@ -807,6 +847,20 @@
  the_king_of_the_castle:0 "城堡里的新国王"
  the_new_Pilsudski:0 "当代的毕苏斯基"
  Cold_Blooded_agent:0 "冷血特工"
+
+ POL_Sanacja_goverment_maintained_tt:0 "萨纳奇制度得以维持"
+
+ POL_Republic_neutrality:0 "波兰共和国"
+ POL_Republic_neutrality_DEF:0 "波兰共和国"
+ POL_Republic_fascism:0 "波兰共和国"
+ POL_Republic_fascism_DEF:0 "波兰共和国"
+ POL_Republic_democratic:0 "波兰共和国"
+ POL_Republic_democratic_DEF:0 "波兰共和国"
+ POL_FED_neutrality:0 "波兰-立陶宛联邦共和国"
+ POL_FED_neutrality_DEF:0 "波兰-立陶宛联邦共和国"
+ POL_FED_democratic:0 "波兰-立陶宛联邦共和国"
+ POL_FED_democratic_DEF:0 "波兰-立陶宛联邦共和国"
+
 
 
 
