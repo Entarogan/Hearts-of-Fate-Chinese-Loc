@@ -1,5 +1,5 @@
 ﻿l_english:
- 
+#### 旧内容
  POL_emergency_meeting:0 "紧急瑟姆会议"
  POL_emergency_meeting_desc:0 "对低效民主充满厌倦的萨纳奇主义者终于准备好挑战政府了，那么结果是..."
  
@@ -239,7 +239,9 @@
  
  POL_Poland_Science:0 "波兰科学院"
  POL_Poland_Science_desc:0 "波兰的学者不会输给任何西方国家！新成立的波兰科学院就是这个国家创造力的最佳体现" 
-
+#### 新内容
+ 
+## 事件
  poland_hof.1.t:0 "1936年国家瑟姆选举"
  poland_hof.1.d:0 "1936年的选举是毕苏斯基发动“五月政变”以来的第二次选举，也是新宪法下的第一次选举。随着国内外紧张局势的加剧，1936年的选举显得尤为重要。萨纳奇军政府虽然极力地试图维持政府的威权统治，却无法直接破坏民主程序，只能以一般政党的形式参与选举。影响力最为强大的反对党，波兰人民党，在新领导人焰尾掌舵以后继续发动声势浩大的选举造势，大有将萨纳奇政府一举推翻的野心。另一支不容忽视的力量，是毕苏斯基的宿敌，罗曼·德莫夫斯基的民族民主运动旗下的民族党，他们要求建立以大波兰地区为核心的单一民族国家，并且对少数民族实施强力的同化政策。他们也谋求推翻萨纳奇政权以结束当前的政治僵局。选举结果是...."
  poland_hof.1.a:0 "人民党当选"
@@ -727,11 +729,6 @@
  POL_occupied_Belarus_Ukraine_Germany_compliance_15_tt:0 "控制的§Y白俄罗斯§!、§Y立陶宛§!、§Y乌克兰§!、§Y德国§!的核心领土§G顺从度增加15%§!"
  POL_Sanacja_Silverlance_Pegasi_tt:0 "§G骑兵、摩托化部队、机械化部队、两栖机械化部队突破+10%，HP+10§!"
 
- POL_nightingale_arknights:0 "丽兹"
- POL_shining_arknights:0 "闪灵"
- 
- POL_Powerful_President:0 "强有力的总统"
-
  POL_PPS_name:0 "波兰社会党"
  POL_PPS_name_Long:0 "波兰社会党"
  POL_SN_name:0 "民族党"
@@ -809,8 +806,7 @@
  Cold_Blooded_agent:0 "冷血特工"
 
 
- POL_nightingale_arknights:0 "丽兹"
- POL_shining_arknights:0 "闪灵"
+
  
  POL_Powerful_President:0 "强有力的总统"
  
