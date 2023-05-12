@@ -1658,3 +1658,60 @@
  
  
  SOV_RUS_Siberia_war_zone:0 "俄罗斯内战动员"
+ 
+ 
+ home_of_revolution_victory:0 "革命始源地"
+ home_of_revolution_victory_desc:0 "同志们，在彻底终结白军和乌克兰民族主义者的威胁后，保卫革命已经实现了一大阶段性胜利。现在终于可以将精力转移到统一的社会主义国家建设方面。用不了多久世人都将拜服于我们的成就，距离革命的真正实现业已不再遥远。"
+ 
+ home_of_revolution_victory_butnoukr:0 "革命始源地"
+ home_of_revolution_victory_butnoukr_desc:0 "同志们，在彻底终结白军后，保卫革命已经实现了一大阶段性胜利。现在终于可以将精力转移到统一的社会主义国家建设方面。用不了多久世人都将拜服于我们的成就，距离革命的真正实现业已不再遥远。\n\n乌克兰必须被毁灭！"
+ 
+ UKR_still_on_earth_flag:0 "§R乌克兰于第二次俄罗斯内战中独立§!"
+ 
+ SOV_Extreme_mobilization:0 "极限总动员"
+ SOV_Extreme_mobilization_desc:0 "布尔什维克所创造的苏式共产主义体制在一类观点上被认作是鲁登道夫所创总体战体制的衍生，它将调动现代国家的最大潜力去激活战争机器，在单纯的国力比拼中促使我们占尽优势。"
+ 
+ SOV_Extreme_mobilization_idea:0 "极限总动员"
+ SOV_Extreme_mobilization_idea_desc:0 ""
+ 
+ 
+ SOV_For_the_motherland:0 "为了祖国！"
+ SOV_For_the_motherland_desc:0 "无数发生在前线的事实证明，想要号召俄罗斯人民起来抗击外敌入侵，没有什么比一句“为了祖国母亲”更适合了。因此在宣传上暂且采用民族主义也并非不可，哪怕这会对共产主义意识形态造成一定“微小的冲击”。"
+ 
+ SOV_For_the_motherland_idea:0 "为了祖国！"
+ SOV_For_the_motherland_idea_desc:0 "为了祖国！为了胜利！"
+ 
+ 
+ RUS_Develop_Industry_In_Moscow:0 "在[219.GetName]发展工业"
+ RUS_Develop_Industry_In_Moscow_desc:0 ""
+ 
+ RUS_Develop_Industry_In_Petersburg:0 "在[195.GetName]发展工业"
+ RUS_Develop_Industry_In_Petersburg_desc:0 ""
+ 
+ RUS_Develop_Industry_In_Kharkov:0 "在[221.GetName]发展工业"
+ RUS_Develop_Industry_In_Kharkov_desc:0 ""
+ 
+ RUS_Develop_Industry_In_Donetsk:0 "在[227.GetName]发展工业"
+ RUS_Develop_Industry_In_Donetsk_desc:0 ""
+ 
+ RUS_Develop_Industry_In_Luhansk:0 "在[228.GetName]发展工业"
+ RUS_Develop_Industry_In_Luhansk_desc:0 ""
+ 
+ RUS_Develop_Industry_In_Kyiv:0 "在[202.GetName]发展工业"
+ RUS_Develop_Industry_In_Kyiv_desc:0 ""
+ 
+ 
+ RUS_Collecting_food_In_Ukr:0 "在乌克兰征粮"
+ RUS_Collecting_food_In_Ukr_desc:0 ""
+ 
+ SOV_RUS_Ukrainian_granary_idea:0 "乌克兰粮仓"
+ 
+ RUS_Develop_Industry_In_Dnipro:0 "第聂伯水电站建设"
+ RUS_Develop_Industry_In_Dnipro_desc:0 ""
+ 
+ SOV_Legacy_of_the_Great_Famine_nostalin_desc:0 "作为朱加什维利政治遗产的大饥荒的确是不存在了，但是它实际上的影响依然犹如乌云般笼罩在这片广袤的大地之上，也许需要很长的时间才能消退吧。"
+ 
+ SOV_Legacy_of_the_Great_Famine_stalindied:0 "作为明显的朱加什维利继业者，叶若夫只能接过大饥荒带来的政治遗产，当然一切总会有解决办法。"
+ 
+ SOV_road_to_Berlin_decisions:0 "通向柏林之路"
+ SOV_road_to_Berlin_decisions_desc:0 "与乌克兰民族主义者勾结的德国人民主义政权必须被毁灭，不过我们和他们之间还隔着一个同样该被毁灭的东西。"

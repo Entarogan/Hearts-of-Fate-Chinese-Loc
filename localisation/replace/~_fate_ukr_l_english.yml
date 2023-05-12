@@ -410,3 +410,6 @@
  
  UKR_Mobilize_the_Cossacks_flag:0 "已完成§Y$UKR_Mobilize_the_Cossacks$§!国策" 
  UKR_Regroup_the_Army_Armored_Cavalry_Regiment_tt:0 "当前天数为：[?UKR_Mobilize_the_Cossacks_flag:days|Y0]"  
+ 
+ UKR_Legacy_of_the_Great_Famine_idea_6_desc:0 "大饥荒的记忆笼罩在这片土地上，作为一种诅咒的同时也重塑了“乌克兰民族”，显然..." 
+ UKR_Legacy_of_the_Great_Famine_idea_7_desc:0 "很长一段时间内，我们都不会原谅莫斯科佬了。"  
