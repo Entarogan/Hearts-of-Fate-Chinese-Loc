@@ -22,3 +22,8 @@
  china.206.t:0 "向国府投降"
  china.206.d:0 "我们大势已去，现在就接受国府的改编到或许是一个不错办法？"
  china.206.a:0 "那就投降吧。" 
+
+ CHI_recruit_militias:0 "强征民兵"
+ CHI_recruit_militias_desc:0 "列强试图一劳永逸地摧毁中国，但他们忘了这片土地拥有全世界最多的人口，在民族主义动员下将会有源源不断的军队涌现。"
+ CHI_annexed_BEY_decision:0 "整合北洋政府"
+ CHI_annexed_BEY_decision_desc:0 "北洋政权基本失去了他们的根据地，我们可以轻松地将其残余的武装力量整合进国民革命军。"
