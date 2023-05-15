@@ -114,12 +114,12 @@
  HOF_ITA_Roman_Legions_dynamic_modifier:0 "罗马军团"
  HOF_ITA_Roman_Legions_dynamic_modifier_desc:0 "如你所见，这不是意大利王家陆军，这真的是罗马军团。"
 
- ITA_Reorganization_of_the_General_Staff_tt:0 "§Y罗马军团§!追加效果：\n$MODIFIER_POLITICAL_POWER_GAIN$: §R-15%§!\n$MODIFIER_PLANNING_SPEED$: §G+50%§!\n$MODIFIER_MAX_PLANNING$: §G+15%§!"
+ ITA_Reorganization_of_the_General_Staff_tt:0 "§Y$HOF_ITA_Roman_Legions_dynamic_modifier$§!追加效果：\n$MODIFIER_POLITICAL_POWER_GAIN$: §R-15%§!\n$MODIFIER_PLANNING_SPEED$: §G+50%§!\n$MODIFIER_MAX_PLANNING$: §G+15%§!"
 
  #ITA_New_firearms:0 "新式枪械"
  #ITA_New_firearms_desc:0 "我们的轻武器产业在大战后进展迅速，排除掉绝大部分异想天开的设计总会有些实用的。" 
 
- ITA_bersaglieri_1_tt:0 "§Y罗马军团§!追加效果：\n$MODIFIER_ARMY_ORG_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR$: §G+5%§!\n$MODIFIER_SPECIAL_FORCES_CAP$: §G+2%§!"
+ ITA_bersaglieri_1_tt:0 "§Y$HOF_ITA_Roman_Legions_dynamic_modifier$§!追加效果：\n$MODIFIER_ARMY_ORG_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR$: §G+5%§!\n$MODIFIER_SPECIAL_FORCES_CAP$: §G+2%§!"
 
  ITA_Engineering_Camp:0 "工程营"
  ITA_Engineering_Camp_desc:0 "在多山多河的亚平宁半岛地区作战当然需要专业的工程营。"  
@@ -130,7 +130,7 @@
  ITA_rebuild_the_alpini:0 "阿尔卑斯山地兵"
  ITA_rebuild_the_alpini_desc:0 "我军的骄傲，阿尔卑斯山地部队，理应得到全陆军最好的待遇。"
 
- ITA_rebuild_the_alpini_tt:0 "§Y罗马军团§!追加效果：\n$modifier_army_sub_unit_mountaineers_attack_factor$: §G+5%§!\n$modifier_army_sub_unit_mountaineers_defence_factor$: §G+5%§!\n$modifier_army_sub_unit_mountaineers_max_org_factor$: §G+10%§!\n$MODIFIER_SPECIAL_FORCES_CAP$: §G+2%§!\n$MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR$: §G+10%§!"
+ ITA_rebuild_the_alpini_tt:0 "§Y$HOF_ITA_Roman_Legions_dynamic_modifier$§!追加效果：\n$modifier_army_sub_unit_mountaineers_attack_factor$: §G+5%§!\n$modifier_army_sub_unit_mountaineers_defence_factor$: §G+5%§!\n$modifier_army_sub_unit_mountaineers_max_org_factor$: §G+10%§!\n$MODIFIER_SPECIAL_FORCES_CAP$: §G+2%§!\n$MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR$: §G+10%§!"
 
 
  ITA_Next_generation_tank:0 "下一代坦克"
@@ -139,7 +139,7 @@
  ITA_Army_modernization:0 "军队现代化"
  ITA_Army_modernization_desc:0 "在愈发灵活的现代战争中通过侦察预先获取情报显得至关重要，我们也要建立自己的机动侦察部队，进一步提升地面部队的总体实力。" 
 
- ITA_Army_modernization_tt:0 "§Y罗马军团§!追加效果：\n$MODIFIER_LAND_DOCTRINE_COST_FACTOR$: §G-20%§!\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10%§!\n$MODIFIER_ORG_LOSS_WHEN_MOVING$: §G-15%§!\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_MOBILIZATION_SPEED$: §G+20%§!\n$MODIFIER_TRAINING_TIME_FACTOR$: §G-20%§!\n$MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR$: §G+20%§!"
+ ITA_Army_modernization_tt:0 "§Y$HOF_ITA_Roman_Legions_dynamic_modifier$§!追加效果：\n$MODIFIER_LAND_DOCTRINE_COST_FACTOR$: §G-20%§!\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10%§!\n$MODIFIER_ORG_LOSS_WHEN_MOVING$: §G-15%§!\n$MODIFIERS_ARMY_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_MOBILIZATION_SPEED$: §G+20%§!\n$MODIFIER_TRAINING_TIME_FACTOR$: §G-20%§!\n$MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR$: §G+20%§!"
 
 
  ITA_Red_brigade:0 "红色旅"
@@ -148,20 +148,20 @@
  ITA_New_Roman_Legion:0 "新罗马军团"
  ITA_New_Roman_Legion_desc:0 "罗马军队当然得是罗马军团，我军将根据凯撒将军的建议逐步恢复过去的军制，高举的鹰旗与荣耀的番号将进一步提振士气。" 
 
- ITA_New_Roman_Legion_tt:0 "§Y罗马军团§!追加效果：\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10%§!\n$MODIFIER_RECON_FACTOR_WHILE_ENTRENCHED$: §G+15%§!\n$MODIFIER_DIG_IN_SPEED_FACTOR$: §G+10%§!\n$MODIFIER_MAX_DIG_IN$: §G+5§!\n$MODIFIER_LAND_REINFORCE_RATE$: §G+5%§!"
+ ITA_New_Roman_Legion_tt:0 "§Y$HOF_ITA_Roman_Legions_dynamic_modifier$§!追加效果：\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10%§!\n$MODIFIER_RECON_FACTOR_WHILE_ENTRENCHED$: §G+15%§!\n$MODIFIER_DIG_IN_SPEED_FACTOR$: §G+10%§!\n$MODIFIER_MAX_DIG_IN$: §G+5§!\n$MODIFIER_LAND_REINFORCE_RATE$: §G+5%§!"
 
  ITA_New_Roman_Legion_effect:0 "§G解锁罗马军团番号§!"
  
  ITA_Special_operations:0 "特种作战"
  ITA_Special_operations_desc:0 "历史上罗马军队多次于逆境中奋战，现在的尖兵部队也应有当年的勇气，无论多糟糕的局面也能竭尽全力打开战局。"
 
- ITA_Special_operations_tt:0 "§Y罗马军团§!追加效果：\n$MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR$: §G+10%§!\n$MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR$: §G-10%§!"
+ ITA_Special_operations_tt:0 "§Y$HOF_ITA_Roman_Legions_dynamic_modifier$§!追加效果：\n$MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_SPECIAL_FORCES_DEFENCE_FACTOR$: §G+10%§!\n$MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR$: §G-10%§!"
 
 
  ITA_arditi_spirit:0 "阿迪蒂精神"
  ITA_arditi_spirit_desc:0 "由最勇敢的人组成的阿迪蒂突击队曾在大战中表现出色，而如今我国政治变动又令勇士们燃起了往昔的战意，他们将抛下对前王国政权的偏见再度回归军队为国而战！" 
 
- ITA_arditi_spirit_tt:0 "§Y罗马军团§!追加效果：\n$MODIFIER_LAND_NIGHT_ATTACK$: §G+20%§!\n$MODIFIER_RECON_FACTOR$: §G+10%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+5%§!\n$MODIFIER_ORG_LOSS_WHEN_MOVING$: §G-10%§!"
+ ITA_arditi_spirit_tt:0 "§Y$HOF_ITA_Roman_Legions_dynamic_modifier$§!追加效果：\n$MODIFIER_LAND_NIGHT_ATTACK$: §G+20%§!\n$MODIFIER_RECON_FACTOR$: §G+10%§!\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+5%§!\n$MODIFIER_ORG_LOSS_WHEN_MOVING$: §G-10%§!"
 
 
  ITA_Eight_million_bayonet:0 "八百万刺刀"
@@ -190,27 +190,27 @@
  ITA_Invest_in_naval_construction:0 "投资海军建设"
  ITA_Invest_in_naval_construction_desc:0 "皇家海军无论如何都必须得到扩充，它承载着我们的一切。" 
 
- ITA_Invest_in_naval_construction_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_XP_GAIN_NAVY_FACTOR$: §G+10%§!" 
+ ITA_Invest_in_naval_construction_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_XP_GAIN_NAVY_FACTOR$: §G+10%§!" 
 
  ITA_Mediterranean_Escort:0 "地中海护航"
  ITA_Mediterranean_Escort_desc:0 "大量的小型舰艇能保护我们的生命线不被各路强盗切断。"  
  
- ITA_Mediterranean_Escort_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_SCREENING_EFFICIENCY$: §G+5%§!"
+ ITA_Mediterranean_Escort_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_SCREENING_EFFICIENCY$: §G+5%§!"
  
  ITA_expand_naval_intelligence:0 "扩张海军情报局"
  ITA_expand_naval_intelligence_desc:0 "意大利信号情报局一直以来经费都十分受限，运转很大程度上依赖乔治·韦里塔·波埃塔和路易吉·唐尼尼两位才子，但这种情况马上就要结束了。我们将给情报局配备更多人员，招募如埃利索·波尔托海军中尉的人才。如此，我们在破解敌方密码、揭示敌军动向方面将更有可能取得成功。"
 
- ITA_expand_naval_intelligence_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_DECRYPTION_FACTOR$: §G+5%§!\n$MODIFIER_ENCRYPTION_FACTOR$: §G+5%§!\n$MODIFIER_NAVY_INTEL_FACTOR$: §G+10%§!"
+ ITA_expand_naval_intelligence_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_DECRYPTION_FACTOR$: §G+5%§!\n$MODIFIER_ENCRYPTION_FACTOR$: §G+5%§!\n$MODIFIER_NAVY_INTEL_FACTOR$: §G+10%§!"
  
  ITA_Mediterranean_raids:0 "地中海掠袭"
  ITA_Mediterranean_raids_desc:0 "当然敌人的补给线也是不能轻易放过的。" 
  
- ITA_Mediterranean_raids_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_CONVOY_RAIDING_EFFICIENCY_FACTOR$: §G+5%§!"
+ ITA_Mediterranean_raids_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_CONVOY_RAIDING_EFFICIENCY_FACTOR$: §G+5%§!"
  
  ITA_Marines:0 "登陆准备"
  ITA_Marines_desc:0 "登陆战对我国陆海军而言几乎是不可避免的。"
  
- ITA_Marines_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_AMPHIBIOUS_INVASION$: §G+15%§!\n$MODIFIER_NAVAL_INVASION_PREPARATION$: §G-15%§!\n$MODIFIER_NAVAL_INVASION_PLANNING_SPEED$: §G+10%§!"
+ ITA_Marines_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_AMPHIBIOUS_INVASION$: §G+15%§!\n$MODIFIER_NAVAL_INVASION_PREPARATION$: §G-15%§!\n$MODIFIER_NAVAL_INVASION_PLANNING_SPEED$: §G+10%§!"
 
  ITA_improve_overseas_naval_bases:0 "升级海外海军基地"
  ITA_improve_overseas_naval_bases_desc:0 "我们在升级位于海外领土的各大港口的同时，也为我们的海军打下了坚实的基础，帮助他们保卫我们不断崛起的帝国，并威胁敌人的贸易线路。"
@@ -219,7 +219,7 @@
  ITA_Legacy_of_the_Punic_War:0 "布匿战争的遗产"
  ITA_Legacy_of_the_Punic_War_desc:0 "罗马海军最著名的战役当属布匿战争，即使如今的对手远比迦太基人强大我们也不会选择退缩。" 
 
- ITA_Legacy_of_the_Punic_War_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_NAVAL_COORDINATION$: §G+5%§!\n$MODIFIER_NAVAL_HIT_CHANCE$: §G+15%§!"
+ ITA_Legacy_of_the_Punic_War_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_NAVAL_COORDINATION$: §G+5%§!\n$MODIFIER_NAVAL_HIT_CHANCE$: §G+15%§!"
 
  ITA_milizia_marittima_di_artiglieria:0 "岸防火炮民兵"
  ITA_milizia_marittima_di_artiglieria_desc:0 "意大利海岸线漫长、离岛港口众多，实在是易攻难守。改革岸防民兵并建造岸防设施可让来犯之敌付出沉重的代价。"
@@ -227,34 +227,34 @@
  ITA_incrociatori_leggeri:0 "轻巡洋舰"
  ITA_incrociatori_leggeri_desc:0 "轻巡洋舰敏捷而火力强大，不仅能够对付同吨位的敌舰、还能高效地清理敌驱逐舰，而且造价低廉、可供大量列装。轻巡洋舰在保护我国海上航路、打击敌方运输船队方面的作用至关重要。过去，我国在使用佣兵队长级、蒙泰库科利级以及加里波第级巡洋舰的同时积攒了大量宝贵经验，我们可以在此基础上打造新式巡洋舰队并制霸地中海。"
 
- ITA_incrociatori_leggeri_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_NAVY_SCREEN_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR$: §G+10%§!\n$ITA_incrociatori_leggeri_dynamic_modifier_tt$\n\n"
+ ITA_incrociatori_leggeri_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_NAVY_SCREEN_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR$: §G+10%§!\n$ITA_incrociatori_leggeri_dynamic_modifier_tt$\n\n"
 
  ITA_incrociatori_leggeri_dynamic_modifier_tt:0 "§Y$screen_ship$§!：$production_cost_tt$§G-5.00%§!\n§Y$screen_ship$§!：最大速度：§G+5%§!\n"
 
  ITA_cacciatorpediniere_di_scorta:0 "护航驱逐舰"
  ITA_cacciatorpediniere_di_scorta_desc:0 "[GetAppropriateRegiaMarinaNsName]的核心任务之一，就是保卫我们在意大利、北非和地中海岛屿间的航线的安全。通过建造一些用于反潜的小型驱逐舰，并有效地训练我们的船员，我们将能够保障海外部队的补给充足。"
 
- ITA_cacciatorpediniere_di_scorta_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_SCREENING_EFFICIENCY$: §G+5%§!"
+ ITA_cacciatorpediniere_di_scorta_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_SCREENING_EFFICIENCY$: §G+5%§!"
 
  ITA_ispettorato_dei_mezzi_antisommergibili:0 "反潜作战指挥部"
  ITA_ispettorato_dei_mezzi_antisommergibili_desc:0 "成立反潜作战指挥部(Mariantisom)可以让我们有更好协调护卫舰艇的组织能力，还能刺激技术创新，使我们在与敌方潜艇作战时获得更多优势。"
 
- ITA_ispettorato_dei_mezzi_antisommergibili_tt:0 "§Y罗马海军§!追加效果：\n$STAT_NAVY_SUB_DETECTION$: §G+10%§!"
+ ITA_ispettorato_dei_mezzi_antisommergibili_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$STAT_NAVY_SUB_DETECTION$: §G+10%§!"
 
  ITA_cruiser_submarines:0 "巡洋潜艇"
  ITA_cruiser_submarines_desc:0 "为了攻击位于地中海以外敌人的航道，我们需要可以在远洋中漫游的长程潜艇。基于工程师卡瓦利尼和贝尔纳迪斯的工作成果，我们将为已在广泛施行中的一战后潜艇计划提供进一步支持，来实现这一目标。"
 
- ITA_cruiser_submarines_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_CONVOY_RAIDING_EFFICIENCY_FACTOR$: §G+5%§!\n$MODIFIER_NAVY_SUBMARINE_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_SUB_RETREAT_SPEED$: §G+10%§!"
+ ITA_cruiser_submarines_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_CONVOY_RAIDING_EFFICIENCY_FACTOR$: §G+5%§!\n$MODIFIER_NAVY_SUBMARINE_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_SUB_RETREAT_SPEED$: §G+10%§!"
 
  ITA_pig:0 "人控鱼雷"
  ITA_pig_desc:0 "鱼雷威力强大可命中率低下，为此海军开发了人操纵的制导鱼雷！当然在鱼雷撞上去前乘员是可以预先脱离的。" 
 
- ITA_pig_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_NAVAL_TORPEDO_HIT_CHANCE_FACTOR$: §G+10%§!"
+ ITA_pig_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_NAVAL_TORPEDO_HIT_CHANCE_FACTOR$: §G+10%§!"
 
  ITA_incrociatori_pesanti:0 "重巡洋舰"
  ITA_incrociatori_pesanti_desc:0 "目前，意大利缺少工业实力以建造足够的战列舰，来满足我们在各处紧迫的需要。但是通过建造拥有强大火力与优秀防护的，如同扎拉级那样的巡洋舰，我们可以多个作战海域争夺制海权。"
 
- ITA_incrociatori_pesanti_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$: §G+5%§!\n$MODIFIER_STRIKE_FORCE_MOVING_ORG$: §G-5%§!\n$ITA_incrociatori_pesanti_dynamic_modifier_tt$ \n\n"
+ ITA_incrociatori_pesanti_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$: §G+5%§!\n$MODIFIER_STRIKE_FORCE_MOVING_ORG$: §G-5%§!\n$ITA_incrociatori_pesanti_dynamic_modifier_tt$ \n\n"
 
  ITA_incrociatori_pesanti_dynamic_modifier_tt:0 "§Y$capital_ship$§!：$production_cost_tt$§G-5.00%§!\n§Y$capital_ship$§!：装甲厚度：§G+5%§!\n"
 
@@ -264,26 +264,26 @@
  ITA_Ultimate_Battleship:0 "终极战舰"
  ITA_Ultimate_Battleship_desc:0 "我国在造船与制炮方面的先进技术能够打造出一流的战列舰，四艘维内托级战列舰组成的强大舰队将毁灭所有胆敢在地中海挑衅的宵小之辈。"
 
- ITA_Ultimate_Battleship_tt:0 "§Y罗马海军§!追加效果：\n$ITA_Ultimate_Battleship_dynamic_modifier_tt$ \n\n"
+ ITA_Ultimate_Battleship_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$ITA_Ultimate_Battleship_dynamic_modifier_tt$ \n\n"
 
  ITA_Ultimate_Battleship_dynamic_modifier_tt:0 "§Y$ship_hull_super_heavy_1$§!：$production_cost_tt$§G-15.00%§!\n§Y$ship_hull_super_heavy_1$§!：装甲厚度：§G+10%§!\n"
 
  ITA_Aircraft_carrier_practice:0 "航母实践"
  ITA_Aircraft_carrier_practice_desc:0 "航空母舰更适于远洋作战。"
 
- ITA_Aircraft_carrier_practice_tt:0 "§Y罗马海军§!追加效果：\n$ITA_Aircraft_carrier_practice_dynamic_modifier_tt$ \n\n"
+ ITA_Aircraft_carrier_practice_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$ITA_Aircraft_carrier_practice_dynamic_modifier_tt$ \n\n"
 
  ITA_Aircraft_carrier_practice_dynamic_modifier_tt:0 "§Y$carrier$§!：$production_cost_tt$§G-5.00%§! \n§Y$carrier$§!：搭载量：§G+2§!\n"
 
  ITA_Our_sea:0 "我们的海"
  ITA_Our_sea_desc:0 "地中海是我们的！" 
 
- ITA_Our_sea_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §G+15%§!\n$MODIFIER_MISSION_CONVOY_ESCORT_EFFICIENCY$: §G+10%§!\n$MODIFIER_NAVY_MAX_RANGE_FACTOR$: §G+15%§! \n$MODIFIER_NAVAL_COORDINATION$: §G+5%§! \n$MODIFIER_NAVAL_HIT_CHANCE$: §G+5%§!"
+ ITA_Our_sea_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §G+15%§!\n$MODIFIER_MISSION_CONVOY_ESCORT_EFFICIENCY$: §G+10%§!\n$MODIFIER_NAVY_MAX_RANGE_FACTOR$: §G+15%§! \n$MODIFIER_NAVAL_COORDINATION$: §G+5%§! \n$MODIFIER_NAVAL_HIT_CHANCE$: §G+5%§!"
 
  ITA_naval_air_coordination:0 "海空协同"
  ITA_naval_air_coordination_desc:0 "直到现在，我们的空军最高指挥部仍然我行我素，没有很好地与我们的海军配合。这妨碍了意大利皇家海军进行有效的侦察任务。通过发展海空协调的联合作战方式，并加强两军间的通讯体系，我们的舰队可以更高效地寻找并打击敌人。"
  
- ITA_naval_air_coordination_tt:0 "§Y罗马海军§!追加效果：\n$MODIFIER_NAVAL_SPEED_FACTOR$: §G+5%§!\n$MODIFIER_SPOTTING_CHANCE$: §G+10%§!\n$MODIFIER_NAVAL_STRIKE_ATTACK_FACTOR$: §G+10%§! "
+ ITA_naval_air_coordination_tt:0 "§Y$HOF_ITA_Classis_dynamic_modifier$§!追加效果：\n$MODIFIER_NAVAL_SPEED_FACTOR$: §G+5%§!\n$MODIFIER_SPOTTING_CHANCE$: §G+10%§!\n$MODIFIER_NAVAL_STRIKE_ATTACK_FACTOR$: §G+10%§! "
 
  ITA_Amphibious_equipment:0 "水陆两用设备"
  ITA_Amphibious_equipment_desc:0 "为拔除敌对势力在地中海或是其他战略要地嵌入的钉子应当使用最好的登陆设备。"
@@ -311,9 +311,9 @@
  ITA_The_experience_of_the_colonial_war:0 "殖民战争的经验"
  ITA_The_experience_of_the_colonial_war_desc:0 "空军的小伙子们在非洲的一系列作战中学会了高超的投弹本领，而这正好是我们需要的。"
 
- ITA_The_experience_of_the_colonial_war_tt:0 "§Y罗马航空军团§!追加效果：\n$MODIFIER_AIR_CAS_PRESENT_FACTOR$: §G+10%§!\n$MODIFIER_AIR_RANGE_FACTOR$: §G+5%§!\n$MODIFIER_STRAT_BOMBING_VISIBILITY$: §G+5%§!\n$MODIFIER_STRATEGIC_BOMBER_BOMBING_FACTOR$: §G+5%§!"
+ ITA_The_experience_of_the_colonial_war_tt:0 "§Y$HOF_ITA_Roman_Air_Legions_dynamic_modifier$§!追加效果：\n$MODIFIER_AIR_CAS_PRESENT_FACTOR$: §G+10%§!\n$MODIFIER_AIR_RANGE_FACTOR$: §G+5%§!\n$MODIFIER_STRAT_BOMBING_VISIBILITY$: §G+5%§!\n$MODIFIER_STRATEGIC_BOMBER_BOMBING_FACTOR$: §G+5%§!"
 
- ITA_expand_rome_flying_school_2_tt:0 "§Y罗马航空军团§!追加效果：\n$MODIFIER_AIR_DOCTRINE_COST_FACTOR$: §G-10%§!\n$MODIFIER_AIR_ACE_GENERATION_CHANCE_FACTOR$: §G+5%§!\n$MODIFIER_AIR_NIGHT_PENALTY$: §G-15%§!\n$MODIFIER_AIR_WEATHER_PENALTY$: §G-15%§!\n$MODIFIER_AIR_TRAINING_XP_FACTOR$: §G+5%§!\n$MODIFIER_AIR_ACCIDENTS_FACTOR$: §G-10%§!"
+ ITA_expand_rome_flying_school_2_tt:0 "§Y$HOF_ITA_Roman_Air_Legions_dynamic_modifier$§!追加效果：\n$MODIFIER_AIR_DOCTRINE_COST_FACTOR$: §G-10%§!\n$MODIFIER_AIR_ACE_GENERATION_CHANCE_FACTOR$: §G+5%§!\n$MODIFIER_AIR_NIGHT_PENALTY$: §G-15%§!\n$MODIFIER_AIR_WEATHER_PENALTY$: §G-15%§!\n$MODIFIER_AIR_TRAINING_XP_FACTOR$: §G+5%§!\n$MODIFIER_AIR_ACCIDENTS_FACTOR$: §G-10%§!"
 
  ITA_Simplified_structure:0 "简化飞机结构"
  ITA_Simplified_structure_desc:0 "意大利航空工业长期是精工细造的“手工业”，这并不利于飞机的大规模生产，对关键结构与工艺进行改进后飞机生产进程将更具效率。"
@@ -324,12 +324,12 @@
  ITA_strongest_slane:0 "最强战机"
  ITA_strongest_slane_desc:0 "G55“半人马座”是研制完成的“5”系列中最强大的一款，它能在同等数量的空战中占尽优势，空军认为应当继续走这条路，只要在飞机设计方面再下功夫定能继续制造出世界上性能最强的战机，配合我军富有创造力的飞行员亦能百战百胜。"
  
- ITA_strongest_slane_tt:0 "§Y罗马航空军团§!追加效果：\n$MODIFIER_AIR_SUPERIORITY_EFFICIENCY$: §G+5%§!\n$MODIFIER_AIR_INTERCEPT_EFFICIENCY$: §G+5%§!\n$MODIFIER_AIR_AGILITY_FACTOR$: §G+5%§!\n$MODIFIER_AIR_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_AIR_DEFENCE_FACTOR$: §G+5%§!"
+ ITA_strongest_slane_tt:0 "§Y$HOF_ITA_Roman_Air_Legions_dynamic_modifier$§!追加效果：\n$MODIFIER_AIR_SUPERIORITY_EFFICIENCY$: §G+5%§!\n$MODIFIER_AIR_INTERCEPT_EFFICIENCY$: §G+5%§!\n$MODIFIER_AIR_AGILITY_FACTOR$: §G+5%§!\n$MODIFIER_AIR_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_AIR_DEFENCE_FACTOR$: §G+5%§!"
  
  ITA_Rocket_power:0 "火箭动力"
  ITA_Rocket_power_desc:0 "起！！！飞！！！！！"
  
- ITA_supremacy_in_the_skies_2_tt:0 "§Y罗马航空军团§!追加效果：\n$MODIFIER_AIR_MISSION_EFFICIENCY$: §G+5%§!\n$MODIFIER_AIR_MISSION_XP_FACTOR$: §G+15%§!\n$MODIFIER_AIR_TRAINING_XP_FACTOR$: §G+5%§!"
+ ITA_supremacy_in_the_skies_2_tt:0 "§Y$HOF_ITA_Roman_Air_Legions_dynamic_modifier$§!追加效果：\n$MODIFIER_AIR_MISSION_EFFICIENCY$: §G+5%§!\n$MODIFIER_AIR_MISSION_XP_FACTOR$: §G+15%§!\n$MODIFIER_AIR_TRAINING_XP_FACTOR$: §G+5%§!"
  
  
  
@@ -575,7 +575,7 @@
  ITA_Aumentare_la_produzione_di_artiglieria:0 "提升火炮质量"
  ITA_Aumentare_la_produzione_di_artiglieria_desc:0 "世界大战是一场火炮的战争，我们相信下一场战争仍是要靠火炮来主导的。我们可不能让自己在这片领域落后。"
  
- ITA_all_roads_lead_to_rome_tt:0 "§Y罗马军团§!追加效果：\n$MODIFIER_SUPPLY_NODE_RANGE$: §G+10%§!"
+ ITA_all_roads_lead_to_rome_tt:0 "§Y$HOF_ITA_Roman_Legions_dynamic_modifier$§!追加效果：\n$MODIFIER_SUPPLY_NODE_RANGE$: §G+10%§!"
  
  ITA_modernize_the_Sardinia:0 "开发边疆"
  ITA_modernize_the_Sardinia_desc:0 "除了撒丁岛，达尔马提亚附近的新领土也需要来自中央政府的投资，只有这样才算发展了整个亚平宁本土。"

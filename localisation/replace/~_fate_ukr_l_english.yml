@@ -355,39 +355,39 @@
  HOF_UKR_black_army_dynamic_modifier:0 "黑军"
  HOF_UKR_black_army_dynamic_modifier_desc:0 "作为安纳其的武装，黑军比起阵地战更加重视“人民战争”策略。"
  
- NOT_communism_independence_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10%§!\n$MODIFIER_MAX_PLANNING$: §G+10%§!\n$MODIFIER_SURRENDER_LIMIT$: §G+10%§!\n$democratic_drift$: §G-0.03§!\n$fascism_drift$: §G-0.03§!\n$neutrality_drift$: §G-0.03§!\n$communism_drift$: §G-0.03§!"
+ NOT_communism_independence_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10%§!\n$MODIFIER_MAX_PLANNING$: §G+10%§!\n$MODIFIER_SURRENDER_LIMIT$: §G+10%§!\n$democratic_drift$: §G-0.03§!\n$fascism_drift$: §G-0.03§!\n$neutrality_drift$: §G-0.03§!\n$communism_drift$: §G-0.03§!"
  
- UKR_anarchist_independence_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10%§!\n$MODIFIER_MAX_PLANNING$: §G+10%§!\n$democratic_drift$: §G-0.03§!\n$fascism_drift$: §G-0.03§!\n$neutrality_drift$: §G-0.03§!\n$communism_drift$: §G+0.07§!"
+ UKR_anarchist_independence_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_ARMY_ORG_FACTOR$: §G+10%§!\n$MODIFIER_MAX_PLANNING$: §G+10%§!\n$democratic_drift$: §G-0.03§!\n$fascism_drift$: §G-0.03§!\n$neutrality_drift$: §G-0.03§!\n$communism_drift$: §G+0.07§!"
  
- UKR_anarchist_independence_2_tt:0 "§Y乌克兰军队§!追加效果：\n$communism_drift$: §G+0.10§!"
+ UKR_anarchist_independence_2_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$communism_drift$: §G+0.10§!"
  
- UKR_anarchist_alina_join_tt:0 "§Y乌克兰军队§!追加效果：\n$communism_drift$: §R-0.10§!"
+ UKR_anarchist_alina_join_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$communism_drift$: §R-0.10§!"
  
- UKR_modernization_of_the_armed_forces:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_EXPERIENCE_LOSS_FACTOR$: §G-25%§!\n$modifier_army_sub_unit_militia_defence_factor$: §R-5%§!\n$modifier_army_sub_unit_militia_max_org_factor$: §R-5%§!\n$modifier_army_sub_unit_irregular_infantry_defence_factor$: §R-5%§!\n$modifier_army_sub_unit_irregular_infantry_max_org_factor$: §R-5%§!"
+ UKR_modernization_of_the_armed_forces:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_EXPERIENCE_LOSS_FACTOR$: §G-25%§!\n$modifier_army_sub_unit_militia_defence_factor$: §R-5%§!\n$modifier_army_sub_unit_militia_max_org_factor$: §R-5%§!\n$modifier_army_sub_unit_irregular_infantry_defence_factor$: §R-5%§!\n$modifier_army_sub_unit_irregular_infantry_max_org_factor$: §R-5%§!"
  
- UKR_Eastern_Ukrainian_Doctrine_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+5%§!"
+ UKR_Eastern_Ukrainian_Doctrine_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+5%§!"
  
- UKR_Flexible_tactical_organization_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_PLANNING_SPEED$: §G+10%§!\n$MODIFIER_ARMY_MORALE_FACTOR$: §G+10%§!"
+ UKR_Flexible_tactical_organization_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_PLANNING_SPEED$: §G+10%§!\n$MODIFIER_ARMY_MORALE_FACTOR$: §G+10%§!"
  
- UKR_besiege_and_annihilate_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_ARMOR_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_MOTORIZED_ATTACK_FACTOR$: §G+10%§!"
+ UKR_besiege_and_annihilate_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_ARMY_SPEED_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_ARMOR_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_MOTORIZED_ATTACK_FACTOR$: §G+10%§!"
  
- UKR_air_ground_co_operation_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_RECON_FACTOR$: §G+5%§!\n$MODIFIER_AIR_CAS_PRESENT_FACTOR$: §G+10%§!"
+ UKR_air_ground_co_operation_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_RECON_FACTOR$: §G+5%§!\n$MODIFIER_AIR_CAS_PRESENT_FACTOR$: §G+10%§!"
  
- UKR_Armored_Cossack_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_ARMY_ARMOR_DEFENCE_FACTOR$: §G+5%§!\n$MODIFIER_MECHANIZED_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_MECHANIZED_DEFENCE_FACTOR$: §G+10%§!"
+ UKR_Armored_Cossack_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_ARMY_ARMOR_DEFENCE_FACTOR$: §G+5%§!\n$MODIFIER_MECHANIZED_ATTACK_FACTOR$: §G+10%§!\n$MODIFIER_MECHANIZED_DEFENCE_FACTOR$: §G+10%§!"
  
- UKR_Western_Ukrainian_Doctrine_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_MAX_DIG_IN$: §G+5§!"
+ UKR_Western_Ukrainian_Doctrine_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_MAX_DIG_IN$: §G+5§!"
  
- UKR_trench_warfare_thinking_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_DIG_IN_SPEED_FACTOR$: §G+20%§!\n$MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR$: §G+10%§!"
+ UKR_trench_warfare_thinking_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_DIG_IN_SPEED_FACTOR$: §G+20%§!\n$MODIFIER_ARMY_INFANTRY_DEFENCE_FACTOR$: §G+10%§!"
  
- UKR_Infiltration_Assault_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_MAX_PLANNING$: §G+10%§!\n$MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_ARTILLERY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_LAND_NIGHT_ATTACK$: §G+10%§!"
+ UKR_Infiltration_Assault_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_MAX_PLANNING$: §G+10%§!\n$MODIFIER_ARMY_INFANTRY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_ARMY_ARTILLERY_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_LAND_NIGHT_ATTACK$: §G+10%§!"
  
- UKR_Sich_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_MOBILIZATION_SPEED$: §G+20%§!\n$MODIFIER_TRAINING_TIME_FACTOR$: §G+10%§!\n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+10%§!"
+ UKR_Sich_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_MOBILIZATION_SPEED$: §G+20%§!\n$MODIFIER_TRAINING_TIME_FACTOR$: §G+10%§!\n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §G+10%§!"
  
- UKR_Natsionalna_hvardiya_Ukrayiny_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y+1%§!\n$modifier_army_sub_unit_militia_max_org_factor$: §G+10%§!"
+ UKR_Natsionalna_hvardiya_Ukrayiny_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y+1%§!\n$modifier_army_sub_unit_militia_max_org_factor$: §G+10%§!"
  
- UKR_more_reservists_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y+2%§!\n$modifier_army_sub_unit_militia_max_org_factor$: §R-5%§!"
+ UKR_more_reservists_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_CONSCRIPTION_FACTOR$: §Y+2%§!\n$modifier_army_sub_unit_militia_max_org_factor$: §R-5%§!"
  
- UKR_elite_troops_tt:0 "§Y乌克兰军队§!追加效果：\n$MODIFIER_XP_GAIN_FACTOR$: §G+5%§!\n$MODIFIER_MECHANIZED_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_SPECIAL_FORCES_CAP$: §G+2%§!\n$modifier_army_sub_unit_militia_attack_factor$: §G+5%§!"
+ UKR_elite_troops_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$MODIFIER_XP_GAIN_FACTOR$: §G+5%§!\n$MODIFIER_MECHANIZED_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_SPECIAL_FORCES_ATTACK_FACTOR$: §G+5%§!\n$MODIFIER_SPECIAL_FORCES_CAP$: §G+2%§!\n$modifier_army_sub_unit_militia_attack_factor$: §G+5%§!"
 
  UKR_Mobilization_of_the_militia:0 "动员国土防卫旅"
  UKR_Mobilization_of_the_militia_desc:0 "在独立战争中响应召唤的民兵们在解散后一直作为紧急预备队存在，现在正是再度投入战斗的时候了！"
@@ -400,7 +400,7 @@
  
  UKR_Modernized_militia_forces_2_tt:1 "为所有国土防卫旅的支援连添加§Y1个$engineer$§!，§Y1个$recon$§!和§Y1个$artillery$§!\n前线营添加§Y2个$militia$§!，§Y1个$irregular_infantry$§!和§Y1个$artillery_brigade$§!" 
  
- UKR_Modernized_militia_forces_3_tt:0 "§Y乌克兰军队§!追加效果：\n$modifier_army_sub_unit_militia_defence_factor$: §G+5%§!\n$modifier_army_sub_unit_irregular_infantry_defence_factor$: §G+5%§!"
+ UKR_Modernized_militia_forces_3_tt:0 "§Y$HOF_UKR_army_dynamic_modifier$§!追加效果：\n$modifier_army_sub_unit_militia_defence_factor$: §G+5%§!\n$modifier_army_sub_unit_irregular_infantry_defence_factor$: §G+5%§!"
  
  UKR_Mobilize_the_Cossacks:0 "征募哥萨克骑兵"
  UKR_Mobilize_the_Cossacks_desc:0 "哥萨克骑兵依然会响应号召加入战斗，但是在愈加强大的宿敌面前他们可能作用有限，而我们能够提供的现代化装备同样非常有限。"
