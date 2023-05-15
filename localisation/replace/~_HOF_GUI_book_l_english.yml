@@ -1,6 +1,6 @@
 ﻿l_english:
  intro_new_context_title: "更新内容"
- intro_new_context_txt: "波兰\n苏联、俄罗斯、意大利、乌克兰军事国策内容重置\n"
+ intro_new_context_txt: "波兰国策树、事件、系统\n苏联、俄罗斯、意大利、乌克兰军事国策内容重置\nUI修改（包括匈牙利UI）\nstate工业地块修正机制\nAI空军及飞行器设计\n未来工作方向：波罗的海地区国策，英国国策树（部分）重置，将领数值调整，美国国策"
  
  #
  ENG_GATHERING_STORM_COVER: "£GFX_selected_country_map_cover_ENG"
