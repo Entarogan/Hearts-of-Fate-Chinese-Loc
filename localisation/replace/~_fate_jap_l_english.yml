@@ -909,316 +909,217 @@
  jap_diplo.5.c:0 "亚细亚的团结"
  
  JAP_showa_democracy:0 "昭和民主"
- JAP_showa_democracy_desc:0 "Recent years have witnessed wives of radical political movements, but Japanese democracy survives miraculously. To protect our democracy is one of the most essential mission today."
- 
+ JAP_showa_democracy_desc:0 "在近年来一波又一波的激进主义政治运动下，日本的民主仍然奇迹般地幸存下来。保卫我们的民主是我们今日最基本的任务。"
  JAP_the_rising_sun:0 "旭日东升"
- JAP_the_rising_sun_desc:0 "Nowdays the world changed a lot. The Europeans and Americans are gradually getting weak. It is Japan's age!"
- 
+ JAP_the_rising_sun_desc:0 "今时不同往日，欧米鬼畜已然衰弱，日本的时代已然来临！"
  JAP_the_longest_day:0 "最长的一天"
- JAP_the_longest_day_desc:0 "Today will be the longest day in the Japanese history, which would witness the largest renewal that will change the whole country."
- 
+ JAP_the_longest_day_desc:0 "今天将是日本史中最漫长的一天，它将见证改变整个国家的大革新。"
  JAP_eliminate_traitors:0 "尊皇讨奸"
- JAP_eliminate_traitors_desc:0 "The Empress has been deceived and kidnapped by those traitors for a long time, who are mostly bureaucrats, zaibatsus, and warlords. It is time to eliminate them and revere the Empress!"
+ JAP_eliminate_traitors_desc:0 "天皇陛下已经被叛徒们蒙蔽和裹挟很久了，这些人都是些财阀，官僚和军阀.现在是时候扫除国贼，拥戴天皇陛下了！"
  
  JAP_end_rebellion:0 "终止叛乱"
- JAP_end_rebellion_desc:0 "No matter how it happened, the rebellion must be ended, if we are going to keep our Empire on the right path."
- 
+ JAP_end_rebellion_desc:0 "无论事变是如何发生的，如果我们要维持帝国的国体，叛乱必须即刻中止。"
  JAP_lessons_from_the_crisis:0 "金融恐慌的教训"
- JAP_lessons_from_the_crisis_desc:0 "The crisis has taught us that if government does not act and respond to changes quickly, the economy will be in risk of collapse."
- 
+ JAP_lessons_from_the_crisis_desc:0 "经济危机教训我们，如果不尽快对变化做出回应，经济便有崩溃的危险。"
  JAP_convene_tokyo_conference:0 "召开东京会议"
- JAP_convene_tokyo_conference_desc:0 "As the leader of East Asia, Japan should play the role of uniting the asian activists and design the future of this continent."
- 
+ JAP_convene_tokyo_conference_desc:0 "作为东亚的领导者，日本必须在团结亚洲政治活动家和规划这片大陆的未来中扮演重要的角色。"
  JAP_active_finance:0 "积极的财政政策"
- JAP_active_finance_desc:0 "An active financial policy is not only the demand of economic growth, but also the requirement of the expansion of the Empire."
+ JAP_active_finance_desc:0 "积极的财政政策不仅要求经济增长，也要满足帝国扩张的需要。"
  
  JAP_youkusan_cabinet:0 "翼赞内阁"
- JAP_youkusan_cabinet_desc:0 "The recent unstability of the Empire has shown that the cabinet of political parties could not maintain the normal function of government. Unless we establish a cabinet only consists of people who are most loyal to the Empress, this kind of insurrection will continue to happen."
- 
+ JAP_youkusan_cabinet_desc:0 "近日帝国的不稳定状态告诉我们，民选政党内阁无法维持正常政府的职能。除非我们建立一个只由忠于天皇人士组成的内阁，这样的暴乱就不会再接着发生。"
  JAP_transitional_cabinet:0 "过渡内阁"
- JAP_transitional_cabinet_desc:0 "Our "Upper Work" has succeed! The Empress has approved that we establish a transitional cabinet. The day of restoration is not far any more."
- 
+ JAP_transitional_cabinet_desc:0 "我们的“上层工作”已经成功了！天皇陛下同意我们建立过渡内阁。维新之日不再遥远。"
  JAP_Japanese_revolution:0 "日本革命"
- JAP_Japanese_revolution_desc:0 "The only way of changing this country is a thorough revolution. And this is what we just achieved. This revolution will bring everyone a brand new Japan."
- 
+ JAP_Japanese_revolution_desc:0 "改变这个国家的唯一方法就是一场彻彻底底的革命。并且我们已经做到了。这场革命将为每一个人带来崭新的日本。"
  JAP_datsuaron:0 "重申脱亚论"
- JAP_datsuaron_desc:0 "Datsu-A Ron, "De-Asianization", is the doctrine that Japan should shed Asia and get into the European Sphere. In order to make sure Japan is still a world-wide power, we should reassert this basic policy."
+ JAP_datsuaron_desc:0 "脱亜論，即“去亚洲化”，是认为日本应当摆脱亚洲，加入欧洲势力圈的政治学说。为了使得日本仍然是世界级大国，我们应当重拾这一基本政策。"
  
  JAP_japanese_youth:0 "组建大日本青年党"
- JAP_japanese_youth_desc:0 "Dai-Nippon Seinen-tou, or Great Japan Youth Party is a youth paramilitary and ultranationalist organization that modeled after German Siegfried Youth, even to the extent of using a light brown color for member’s uniforms. Seinen-tou attracts youth to die for this country and Empress."
- 
+ JAP_japanese_youth_desc:0 "大日本青年党，是一个效仿德国齐格弗里德青年团的青年准军事组织和极端民族主义组织，从政纲到所使用的亮棕色成员服装都几乎一样。青年党吸引了许多为天皇陛下和帝国效力至死的青年人。"
  JAP_Chi_Ha_Tan:0 "知波单精神"
- JAP_Chi_Ha_Tan_desc:0 "Chi-Ha-Tan Brigade was once the most brave and ferocious armor Bridge in IJA. We should spread thier Spirit to the whole army."
- 
+ JAP_Chi_Ha_Tan_desc:0 "知波単旅团曾经是大日本帝国陆军中最勇敢和凶猛的部队。我们应当在整个军队中传扬他们的精神。"
  JAP_Operation_Ketsugou:0 "“决”号战争计划"
- JAP_Operation_Ketsugou_desc:0 "We have lost our outer islands and Japan is in great danger. Every single citizen, no matter gender, age and occupation, should take the responsibility to defend the Empire and die for the Empress."
+ JAP_Operation_Ketsugou_desc:0 "我们已经失去了我们的外道，日本本土已然处于巨大的危险之中。每一个日本国民，无论性别，年龄以及是否被占领，都要承担起保卫帝国和为天皇陛下尽忠的责任。"
  
  JAP_negotiate_with_china:0 "中日协商"
- JAP_negotiate_with_china_desc:0 "The only option to deal with China is to form an equal military alliance with it. Let's start our negotiation and see what will make them not able to refuse."
- 
- JAP_Ni_Go_Industry:0 "一号工业化方案"
- JAP_Ni_Go_Industry_desc:0 "Ni-Go Project is a industrialization plan proposed by Business and Industry Department, which contains the development of basic heavy industries like mining, steel and electricity."
- 
- JAP_F_Go_Industry:0 "二号工业化方案"
- JAP_F_Go_Industry_desc:0 "F-Go Project is a industrialization plan proposed by Financial Department, which contains the development of heavy industries like shipping, automobile and aircraft."
- 
+ JAP_negotiate_with_china_desc:0 "对中国的唯一选项就是建立平等的军事联盟。让我们开始谈判，并且开出不让他们拒绝的合适价码。"
+ JAP_Ni_Go_Industry:0 "仁号工业化方案"
+ JAP_Ni_Go_Industry_desc:0 "仁号计划是一个由企业和工业部牵头的工业化计划，主要包括煤矿，铁矿，电力等基本重工业的发展。"
+ JAP_F_Go_Industry:0 "F号工业化方案"
+ JAP_F_Go_Industry_desc:0 "F号计划是大藏省提出的产业化规划，包括发展航运、汽车、飞机等重工业。"
  JAP_experimental_electronic_development:0 "实验电子器材"
- JAP_experimental_electronic_development_desc:0 "Our Scientists have made progress in experimental electronic devices, now it is time to spread those techologies into application."
- 
+ JAP_experimental_electronic_development_desc:0 "我们的科学家在实验性电子设备领域取得了进展，现在是时候将这些科技投入应用了。"
  JAP_tengu_focus:0 "天狗飞机制造厂"
- JAP_tengu_focus_desc:0 "Tengu Aircraft is one of the famous fighter manufacturer around the world. We should make continous purchase order with it."
- 
+ JAP_tengu_focus_desc:0 "天狗航空机工业是世界上最有名的战斗机制造商之一。我们应当下连续的采购订单。"
  JAP_hinanawi_focus:0 "比那名居飞机制造厂"
- JAP_hinanawi_focus_desc:0 "Hinanawi Aircraft is one of pioneer bomber manufacturer lead by House Hinanawi. We should make continous purchase order with it."
- 
+ JAP_hinanawi_focus_desc:0 "比那名居航空机工业是由比那名居轰炸机制造商的先驱之一。我们应当下连续的采购订单。"
  JAP_liberals_win:0 "自由派当选"
- JAP_liberals_win_desc:0 "Liberal Faction in National Diet consists of a branch of young politicians and activists. While the power of military and peers seems to keep increasing, they are strongly insisting on democracy and demanding more political influence."
- 
+ JAP_liberals_win_desc:0 "国会中的自由派主要由青年政治家和活动家形成的团体组成。随着军部及其同伙的权力不断增长，自由派强硬地支持民主并要求更多政治影响力。"
  JAP_conservatives_win:0 "保守派当选"
- JAP_conservatives_win_desc:0 "Conservative Faction in National Diet consists of a branch of older politicians and elites. They are trying to balance the power between the civil government and military and preserve Japanese democracy. Many of them have very good relationship with both military leaders and capitalists."
- 
+ JAP_conservatives_win_desc:0 "国会中的保守派主要由元老政治家和政治精英们组成。他们试图平衡民选政府和军部之间的权力，以此保全日本民主。他们中的多数人都和军头与资本家们保持着非常好的关系。"
  JAP_reformist_win:0 "革新派当选"
- JAP_reformist_win_desc:0 "Reformist Faction in National Diet consists of activists who are enthusiatic about a thorough reformation of the political system to concentrate power and building a strong bureaucrat system."
- 
+ JAP_reformist_win_desc:0 "国会中的革新派主要由热衷于彻底革新政体，集中权力，建立强大的官僚系统的政治活动家组成。"
  JAP_electoral_reformation:0 "选举改革"
- JAP_electoral_reformation_desc:0 "the election in Japan still have lots of problems. If we do not take measures to restrain the corruption in our democracy, people will finally lose faith on us."
- 
+ JAP_electoral_reformation_desc:0 "日本的选举仍然有很多问题。如果我们不采取任何措施以减少我们民主中的腐败，人民将最终失去对我们的信心。"
  JAP_rapprochement_with_army:0 "与军部和解"
- JAP_rapprochement_with_army_desc:0 "The Military has been critizing us of intervening the commanding right of the Empress for a long time. Nowadays the ultimate way of solving this to netiogate with the Military to pacify radical officers."
- 
+ JAP_rapprochement_with_army_desc:0 "军部经常批评我们介入天皇的最高统帅权已经很久了，现在是时候与军部协商，安抚激进军官，最终解决问题了。"
  JAP_eradicate_barriers:0 "排除障碍"
- JAP_eradicate_barriers_desc:0 "Though PM Sayjou Manaka has made lots of reform plans, the largest barriers remain in the Diet and even inside the party. It is time to make paths for our plans."
- 
+ JAP_eradicate_barriers_desc:0 "尽管纱条爱歌首相制定了一系列改革计划，但最大的阻碍仍然存在于国会与政党中。现在是时候执行我们的计划了。"
  JAP_purge_kodoha_fate:0 "清洗皇道派"
- JAP_purge_kodoha_fate_desc:0 "Kodoha, as we just affirmed, is the plotter of the recent coup. For the Empire, we will eliminate them without any mercy."
- 
+ JAP_purge_kodoha_fate_desc:0 "皇道派，我们已经确信他们是最近政变的策划者。为了帝国，我们必须无情地除掉他们。"
  JAP_blackbox_operation:0 "暗箱操作"
- JAP_blackbox_operation_desc:0 "Even though establishing the rule of Youkusan Cabinet is necessary, we could not just shut down the National Diet and end democracy. What we are going to do is some kind of ... trick, or more precisely, some kind of political wisdom, you know."
- 
+ JAP_blackbox_operation_desc:0 "尽管建立翼賛内阁的统治是必要的，我们也不应该立刻终结国会与民主政治。我们将要做的事情是某些小把戏，更确切地说，是某种政治智慧，你懂的。"
  JAP_touhoukai:0 "合并政党"
- JAP_touhoukai_desc:0 "The problem of Toseiha is that it lacks a strong party to express our position in the National Diet, and we are relying on traditional parties or small pro-military parties."
- 
+ JAP_touhoukai_desc:0 "我们统制派的主要问题是缺少强有力的政党组织去在国会表达政治诉求，并且太过于依赖传统政党以及亲军部政党。"
  JAP_rectify_the_army:0 "整肃军队"
- JAP_rectify_the_army_desc:0 "Lots of officiers in the army are cooperator or at least sympathier of Kododa. So it is best to recitify the army and make them loyal to the Empress and PM Yakumo."
- 
+ JAP_rectify_the_army_desc:0 "军队中的许多军官都是皇道派的合作者，至少也是同情者。所以最好重整一下军队，并让他们对天皇和八云首相效忠。"
  JAP_control_shinto:0 "扩大神社局的权力"
- JAP_control_shinto_desc:0 "Tokko is admittedly effective but also dangerous. It may be not loyal to the Youkusan Cabinet. The best solution is to transfer the power of maintaining public order to people who the Sage trusts."
- 
+ JAP_control_shinto_desc:0 "特高课诚然很高效，但同时也很危险。它对翼赞内阁或许并不忠诚。最好的方案就是将维持公共秩序的权力移交给贤者信任的人。"
  JAP_Electricity_Nationalization:0 "电力国有化"
- JAP_Electricity_Nationalization_desc:0 "Electricity nationalization is one of the most important meassure that strengthen our economic commands. Though capitalists are opposing this, there is nothing could hinder this decision."
- 
+ JAP_Electricity_Nationalization_desc:0 "电力国有化是增强我们对经济控制的重要措施之一。尽管资本家们反对这一举措，但并没有什么事物能组织这一决议。"
  JAP_Japanese_patriot_industry_association:0 "大日本产业报国会"
- JAP_Japanese_patriot_industry_association_desc:0 "Japanese patriotic Industry Association is totally different from western trade unions. It is not only an association of workers, but also an organization to unite the workers to serve for the country."
- 
+ JAP_Japanese_patriot_industry_association_desc:0 "大日本产业报国会与西方工会完全不同。它并不是仅仅是工人的组合，也是一个将工人统合起来为国工作的组织。"
  JAP_total_war:0 "总体战"
- JAP_total_war_desc:0 "The potential of Japanese people has not been exploited yet! We should concentrate all possible resources, and realize "total national defense state"."
- 
+ JAP_total_war_desc:0 "日本国民的潜力还没有完全展现！我们应当集中所有资源，实现“完全国防状态”。"
  JAP_cancel_shinto:0 "取缔国立神道教"
- JAP_cancel_shinto_desc:0 "Shintoism, as well as Buddanism, is a kind of thought that is poisoning the people. As part of the national renewal, we should cancel and pull out state religions from root."
- 
+ JAP_cancel_shinto_desc:0 "神道教，以及佛教，是一种毒害人民的思想。作为国家复兴的一部分，我们应该从根本上取消和铲除这些国民宗教。"
  JAP_disband_national_diet:0 "解散国会"
- JAP_disband_national_diet_desc:0 "Shintoism, as well as Buddanism, is a kind of thought that is poisoning the people. As part of the national renewal, we should cancel and pull out state religions from root."
- 
+ JAP_disband_national_diet_desc:0 "国会对于军队是无用的，在天下布武的思想指导下，国会应该被解散。"
  JAP_take_over_the_government:0 "接管政府"
- JAP_take_over_the_government_desc:0 "The government is controlled by stupid bureaucrats who only know how to eat beaf using forks. Intelligent officers from Nobu Faction will establish our own Junta."
- 
+ JAP_take_over_the_government_desc:0 "政府被愚蠢的官僚控制，他们只知道用叉子嗯造大餐。信长派系的天才军官将建立我们自己的军政府。"
  JAP_who_cares_about_the_emperor:0 "天皇算个球"
- JAP_who_cares_about_the_emperor_desc:0 "The whole country is cheering for the triumph of Oda Nobunaga. Does the Empress still really matter? Nobody will care about her. A brand new age is coming!"
- 
+ JAP_who_cares_about_the_emperor_desc:0 "整个国家都在为织田信长的胜利欢呼。天皇还真的重要吗？天皇算个球。一个崭新的时代即将到来！"
  JAP_council_of_sage:0 "召开贤者议会"
- JAP_council_of_sage_desc:0 "It is even not excessive to say that the new Japan is founded by three Sages. The sages should gather together to enable the Empress to consult them about the state affairs. However, the organization of three sages should be lead by Yakumo Yukari, of course."
- 
+ JAP_council_of_sage_desc:0 "说新日本是由三贤者建立的也不为过。贤者们应该合作，使天皇事事向她们求助。不过，三贤者议会当然由八云紫领导。"
  JAP_kokutai_toseiha:0 "统治之国体"
- JAP_kokutai_toseiha_desc:0 "Kokutai, or State System, is the core of Japanese politics. We need to strengthen the control of the country in all aspects in order to repress who are going to challenge the Kokutai where the Empress is at the center."
- 
+ JAP_kokutai_toseiha_desc:0 "国体，即国家制度，是日本政治的核心。我们需要加强对国家各方面的控制，以镇压那些要挑战这以天皇为中心的国体的那些人。"
  JAP_disband_kizuko_in:0 "解散贵族院"
- JAP_disband_kizuko_in_desc:0 "Kizuko-In, or House of Peers, plays an important role in old system. And one of Sages of Kizuko-In also helped us to complete the restoration. However, the whole Kizuko-In should be disbanded now, since this new country do not need peers any more."
- 
+ JAP_disband_kizuko_in_desc:0 "贵族院，亦即上议院，在旧政体中发挥着重要作用。而贵族院的一位贤者也帮助我们完成了维新革命。然而，整个贵族院现在应该被解散，因为这个新国家不再需要贵族。"
  JAP_reorganize_kizuko_in:0 "重组贵族院"
- JAP_reorganize_kizuko_in_desc:0 "Kizuko-In, or House of Peers, plays an important role in old system. And one of Sages of Kizuko-In also helped us to complete the restoration. Though many corrupt peers are hindering the advance of the country, House of Peers is still essential for helping the Empress to hold the regime."
- 
+ JAP_reorganize_kizuko_in_desc:0 "贵族院，亦即上议院，在旧政体中发挥着重要作用。而贵族院的一位贤者也帮助我们完成了维新革命。尽管许多愚蠢腐败的贵族阻挡着国家的进步，贵族院对于天皇陛下亲政仍然很重要。"
  JAP_showa_resotration:0 "昭和维新"
- JAP_showa_resotration_desc:0 "The transitional cabinet has finished its role. It is time to fullfil our aspiration and let the Empress rule the country directly."
- 
+ JAP_showa_resotration_desc:0 "过渡内阁已经完成了它的作用。现在是时候实现我们的愿望，让天皇陛下亲政了。"
  JAP_shoutuku_resotration:0 "圣德维新"
- JAP_shoutuku_resotration_desc:0 "The transitional cabinet has finished its role. It is time to fullfil our aspiration and let our new Empress rule the country directly."
- 
+ JAP_shoutuku_resotration_desc:0 "过渡内阁已经完成了它的作用。现在是时候实现我们的愿望，让新的天皇陛下亲政了。"
  JAP_kokutai_meicho:0 "国体明徴"
- JAP_kokutai_meicho_desc:0 "Kokutai, or State System, is the core of Japanese politics. Before the restoration, there was dispute and doubt about the status of the Empress in our system. It is time to rectify this kind of thought and establish the absolute rule of the Empress."
- 
+ JAP_kokutai_meicho_desc:0 "国体，即国家制度，是日本政治的核心。维新之前，人们对天皇陛下在我们制度中的地位存在争议和怀疑。现在是时候纠正这种想法，确立天皇陛下的绝对统治。"
  JAP_jingi_in:0 "成立神祗院"
- JAP_jingi_in_desc:0 "The Bureau of Shrine could not match the status of the Empress and State Shinto. Thus Jingi-In is establish to promote domestic religious development."
- 
+ JAP_jingi_in_desc:0 "神社局的地位无法与天皇陛下和国立神道教的地位相提并论。因此，神祗院的成立是为了促进国内宗教的发展。"
  JAP_unbroken_imperial_line:0 "万世一系"
- JAP_unbroken_imperial_line_desc:0 "Japanese Monarchy is different from ones all around the world. That is, the imperial line was unbroken. After the Empress takes the power herself, she will prove that her ability is unique."
- 
+ JAP_unbroken_imperial_line_desc:0 "日本的君主制与世界各地的君主制不同。那就是，皇室的血统万世一系。在天皇陛下亲政后，她将证明她的能力是独一无二的。"
  JAP_destroy_democracy:0 "摧毁民主"
- JAP_destroy_democracy_desc:0 "Democracy was one of the largest cancer attached to the old government. It was the result caused by corrupt elites who were blindly imitating western countries. In order to ensure that the restoration is on the right path, we need to end this wrong system first."
- 
+ JAP_destroy_democracy_desc:0 "民主是寄宿在旧政权身上的最大毒瘤之一。这是盲目模仿西方国家的腐败精英造成的结果。为了确保维新革命不偏离目标，我们需要首先结束这种错误的制度。"
  JAP_purge_bureaucrat:0 "清洗官僚"
- JAP_purge_bureaucrat_desc:0 "Bureacrats was controlling almost every aspect of this country. However, they were corrupt and inefficient. They were the one who was cheating the Empress and the people. All in all, they should be eliminated."
- 
+ JAP_purge_bureaucrat_desc:0 "官僚们几乎控制着这个国家的每一个方面。然而，他们腐败无能，卖官害民，欺君罔上。总而言之，他们得死。"
  JAP_nationalize_heavy_industry:0 "重工业国有化"
- JAP_nationalize_heavy_industry_desc:0 "The heavy industry was controlled by Zaibatsus, who was accumulating the treasure but cared nothing about this country. All the heavy industry should be controlled by the state."
- 
+ JAP_nationalize_heavy_industry_desc:0 "重工业是由大财阀们控制的，他们虽然积累财富，却对这个国家毫不关心。所有的重工业都应该由国家来控制。"
  JAP_japanese_national_socialism:0 "日本国家社会主义"
- JAP_japanese_national_socialism_desc:0 "Several years ago, some farsighted thinkers had pointed out that national socialism is only correct path way for Japan. We are blessed to achieve our goal today, and Japanese National Socialism will keep bringing us strength, unity and prosperity."
- 
+ JAP_japanese_national_socialism_desc:0 "几年前，一些有远见的思想家曾指出，国家社会主义将是日本唯一正确的道路。今日我们很幸运地实现了我们的目标，日本的国家社会主义将继续给我们带来力量，团结和繁荣。"
  JAP_rebuild_Japan:0 "改造国家"
- JAP_rebuild_Japan_desc:0 "The way of national socialism is not simple. What we are going to do is the rebuild the whole Japanese society to realize the social revolution."
- 
+ JAP_rebuild_Japan_desc:0 "国家社会主义的道路并不简单。我们要做的是重建整个日本社会以实现社会革命。"
  JAP_mind_exercise:0 "精神训练"
- JAP_mind_exercise_desc:0 "What inherent in our revolution doctrine is the revolution of mind, which contains important exercise of both the body and mind. We should spread this kind of spiritual exercise to the whole army and then the whole country."
- 
+ JAP_mind_exercise_desc:0 "我们的革命学说的核心内容的是精神的革命，它包含了对身心的重要锤炼。我们应该把这种精神动员普及到全军，然后普及到全国。"
  JAp_bulwark_of_the_resolution:0 "东方革命堡垒"
- JAp_bulwark_of_the_resolution_desc:0 "Our revolution is avant-garde, innovative and thorough, which means other reactionary countries will not be kind to us. So we should build Japan as the bulwark of revolution to protect our values."
- 
+ JAp_bulwark_of_the_resolution_desc:0 "我们的革命是前卫的、创新的、彻底的，这意味着其他反动国家不会对我们客气。所以我们应该把日本建设成革命的堡垒，以保护我们的价值观。"
  JAP_pan_asian_culture:0 "泛亚文化"
- JAP_pan_asian_culture_desc:0 "The pioneer writers and artists in our country are trying to fuse the culture from Korea, China and India. The fact is that asian culture is strong and rich. We will keep absorb beneficial elements from the whole aisa to enrich the spiritual lives of Japanese."
- 
+ JAP_pan_asian_culture_desc:0 "我们国家的前卫作家和艺术家正在努力融合来自朝鲜、中国和印度的文化。事实上，亚洲文化是强大且丰富的。我们将不断吸收整个亚洲的优良元素来丰富日本人的精神生活。"
  JAP_rise_of_asia:0 "亚细亚之崛起"
- JAP_rise_of_asia_desc:0 "Asians have been waiting today for long. It is the time to claim the rise of Asia!"
- 
+ JAP_rise_of_asia_desc:0 "亚洲人等待今日已经很久了。现在正是要求亚洲崛起的时机!"
  JAP_korean_holistic_citizenship:0 "朝鲜完整公民权利"
- JAP_korean_holistic_citizenship_desc:0 "Japanese people regard Korean as second-class citizens for a long time. This is wholely wrong. We should admit Korean culture and language as part of Japanese one and regard all Korean equally with indigenous Japanese."
- 
+ JAP_korean_holistic_citizenship_desc:0 "长期以来，日本人将朝鲜人视为二等公民。这是完全错误的。我们应该承认朝鲜文化和语言是日本文化的一部分，并将所有朝鲜人与日本国民同等看待。"
  JAP_line_of_life:0 "满洲生命线"
- JAP_line_of_life_desc:0 "Some thinkers have pointed out that Manchuria is the line of life for Japan. That is ture. We need to control and exploit Manchuria if Japan want to develop, especially in terms of industry."
- 
+ JAP_line_of_life_desc:0 "一些思想家认为，满洲是日本的生命线。这是对的。如若日本想发展，我们需要控制和开发满洲，特别是在工业方面。"
  JAP_manchuria_operation:0 "满洲事变"
- JAP_manchuria_operation_desc:0 "Our plan of invading Manchuria is a big success."
- 
+ JAP_manchuria_operation_desc:0 "满洲侵攻计划大成功。"
  JAP_intelligence_network:0 "情报网络"
- JAP_intelligence_network_desc:0 "We can build our intelligence network just like our European alliances."
- 
+ JAP_intelligence_network_desc:0 "我们可以像我们的欧洲盟友一样建立我们的情报网。"
  JAP_Russo_Japanese_co_prosperity:0 "日俄共荣"
- JAP_Russo_Japanese_co_prosperity_desc:0 "Russo-Japanese alliance has allowed us to operate deeply in terms of army."
- 
+ JAP_Russo_Japanese_co_prosperity_desc:0 "日俄同盟使我们在军队方面有了深入的规划。"
  JAP_claim_defeating_imperialism:0 "宣布击败帝国主义"
- JAP_claim_defeating_imperialism_desc:0 "European Imperialists have occupied Eastern Asia and enslaved people there for hundreds of years! Nowadays, we have liberate the whole aisa, and could claiming proudly that we have defeated imperialism."
- 
+ JAP_claim_defeating_imperialism_desc:0 "欧洲帝国主义占领东亚并奴役那里的人民达数百年之久! 如今，我们已经解放了整个亚洲，并可以自豪地宣称我们已经打败了帝国主义。"
  JAP_seek_support_from_navy:0 "寻求海军支持"
- JAP_seek_support_from_navy_desc:0 "Some high officers from Navy have understood the quality of demmocracy. We could seek support from them to consolidate the democracy."
- 
+ JAP_seek_support_from_navy_desc:0 "海军的一些高级军官已经了解了民主的价值。我们可以从他们那里寻求支持，以巩固民主。"
  JAP_seek_sympathizer:0 "寻求陆军支持"
- JAP_seek_sympathizer_desc:0 "Though anti-democratic trend of thought is popular within the army, there are still officers that could be persuaded to support liberal democracy. All we need to do is to pay effort."
- 
+ JAP_seek_sympathizer_desc:0 "尽管反民主的思潮在军队中很流行，但仍可以说服一些军官支持自由民主。我们所需要做的就是努力。"
  JAP_showdown:0 "摊牌"
- JAP_showdown_desc:0 "We will tolerate no more! The army tried to challenge the government over and over again, and what we could do is to suffer. Now, we will expel millitant people from the government and cabinet. It is time to showdown."
- 
+ JAP_showdown_desc:0 "妈的不能再忍了！军队一次又一次地试图挑战政府，但我们能做的就是忍受。现在，我们将从政府和内阁中驱逐好战分子的人，一拳把他们打爆。现在是摊牌的时候了。"
  JAP_dissolute_the_zaibatsus:0 "解体财阀"
- JAP_dissolute_the_zaibatsus_desc:0 "Zaibatsus are by no means the proof of liberal democracy. It is the result of the combination of feudal power and capitalism, and has become the tools of government to control the economy. What we need is not a series of monopolized industry but a flexible market."
- 
+ JAP_dissolute_the_zaibatsus_desc:0 "财阀绝不是自由民主的象征。它是封建势力和资本主义结合的产物，并成为政府控制经济的工具。我们需要的不是一系列的垄断行业，而是一个灵活的市场。"
  JAP_exclude_koziku_opposition:0 "挑战贵族反对派"
- JAP_exclude_koziku_opposition_desc:0 "Peers in Kizuko-In are hostile to reformists. If we want to push our reformation, we need to let them shut up."
- 
+ JAP_exclude_koziku_opposition_desc:0 "贵族院的贵族势力正与革新派敌对。 如果我们想推进我们的改革，我们就得他们闭嘴。"
  JAP_supportive_rural_economics:0 "支持农村经济"
- JAP_supportive_rural_economics_desc:0 "The industry of Japan develops at the cost of the interest of farmers. The heavy land rent has prevent people to join democracy and lead to the rise of rural fascism. we should ameliorate the standard of lives in rural area."
- 
+ JAP_supportive_rural_economics_desc:0 "日本的工业发展是以农民的利益为代价的。沉重的地租阻碍了人们加入民主政治，导致法西斯主义在农村的兴起。我们应该改善农村地区的生活水平。"
  JAP_reorganize_parties:0 "重组政府"
- JAP_reorganize_parties_desc:0 "The old Japanese political system was full of loopholes. The democratic power was restraint by other powerful people like peers, ministers, and bureaucrats inside the palace. We should organize the government to make the democracy work."
- 
+ JAP_reorganize_parties_desc:0 "日本旧政体充满了漏洞。民主权力受到其他上位者，如贵族、大臣和宫内大臣们的制约。我们应该把政府组织起来，使民主发挥作用。"
  JAP_encourage_merger:0 "鼓励兼并"
- JAP_encourage_merger_desc:0 "It has been proved that a large company is more efficient than a series of small ones. Why not encourage Zaibatsus to merger?"
- 
+ JAP_encourage_merger_desc:0 "事实证明，一个大公司比一系列的小公司更有效率。为什么不鼓励财阀企业进行兼并？"
  JAP_expand_imperial_universities:0 "扩建帝国大学"
- JAP_expand_imperial_universities_desc:0 "Imperial Universities were established by the Empire to encourage acadamic research. We should keep investing those universities to promote our research level."
- 
+ JAP_expand_imperial_universities_desc:0 "帝国大学是由帝国建立的，以鼓励学术研究。我们应该继续投资这些大学以促进我们的研究水平。"
  JAP_youkusankai:0 "大政翼赞会"
- JAP_youkusankai_desc:0 "Old party system is not useful now. In order to strengthen the government to control the state economy and the army, we need one single, strong party to command all."
- 
+ JAP_youkusankai_desc:0 "旧政党制度现在已经没有用了。为了加强政府对国家经济和军队的控制，我们需要一个单一的、强大的政党来指挥一切。"
  JAP_bureaucrat_economics:0 "官僚经济学"
- JAP_bureaucrat_economics_desc:0 "PM Sayjou Manaka has an ambitious plan to make the government be able to control our economy without destorying Zaibatsus. It is to develop a complex Bureacrat System to guide the Zaibatsus and make them serve the society."
- 
+ JAP_bureaucrat_economics_desc:0 "纱条爱歌首相有一个雄心勃勃的计划，使政府能够控制我们的经济而不破坏财阀。它要建立一个复杂的官僚体制，以指导财阀，使他们为社会服务。"
  JAP_concentrated_government:0 "强化中央政府"
- JAP_concentrated_government_desc:0 "With the development of Bureaucrat System, PM is able to concentrate the government, the power of which used to be divided to local officers and small faction leader."
- 
+ JAP_concentrated_government_desc:0 "随着官僚制度的发展，首相能够集中政府的权力，而这些权力过去是由地方官员和小派别领导人分享的。"
  JAP_capital_management_separation:0 "资产经营权分离"
- JAP_capital_management_separation_desc:0 "Capitalists only produce for benefit, but not produce for society. That's why the government needs to intervene. We will try to leave the Property Right to capitalists and let bureaucrats take care of the management, which will lead the Zaibatsus to serve the country."
- 
+ JAP_capital_management_separation_desc:0 "资本家只为利益而生产，不为社会而生产。这就是政府需要干预的原因。我们将尝试把产权留给资本家，让官僚们负责管理，引导财阀们为国家服务。"
  JAP_long_term_contract:0 "长期合同"
- JAP_long_term_contract_desc:0 "Our contract with Zaibatsus was once short-term, which was flexible but unstable. We could try to make long-term contract with Zaibatsus as long as they could be trusted."
- 
+ JAP_long_term_contract_desc:0 "我们与财阀的合约曾经是短期的，这很灵活但也不稳定。我们可以尝试与财阀签订长期合同，只要他们能够被信任。"
  JAP_colonies_authorization:0 "殖民地授权"
- JAP_colonies_authorization_desc:0 "To authorize the exploitation rights to Zaibatsus will allow them to make best of the resources in colonies."
- 
+ JAP_colonies_authorization_desc:0 "授权给财阀开发权将使他们能够最好地利用殖民地的资源。"
  JAP_popular_education:0 "大众教育"
- JAP_popular_education_desc:0 "Conservatives are trying to concentrate the educational resources into the highest universites. Admittedly, this will foster national research level. However, what is really crucial is the popular education, which plays a vital role in the democratic process."
- 
+ JAP_popular_education_desc:0 "保守派正试图将教育资源集中到最高级的大学。诚然，这将促进国家研究水平。然而，真正关键的是大众教育，它在民主进程中发挥着重要作用。"
  JAP_private_advisory_institute:0 "投资私有智库"
- JAP_private_advisory_institute_desc:0 "Private Think-tanks are popular in countries like US. In Japan, the government could also invest money into those advisory organizations which could have better ideas than bureaucrats."
- 
+ JAP_private_advisory_institute_desc:0 "私人智囊团在美国等国家很受欢迎。在日本，政府也可以向这些咨询机构投资，这些机构可能有比官僚更好的想法。"
  JAP_nobody_suffers_damage:0 "无人受损的国家"
- JAP_nobody_suffers_damage_desc:0 "Since we have successfully balance the interest of all political and economic groups, we have realized a country where nobody is actually suffering from damage."
- 
+ JAP_nobody_suffers_damage_desc:0 "由于我们成功地平衡了所有政治和经济团体的利益，我们已经实现了一个无人受损的国家。"
  JAP_mental_hygene:0 "精神卫生运动"
- JAP_mental_hygene_desc:0 "The system in the past is trying to instill repressive ideologies into people's mind. What we are going to do is to liberate people's mind and open the discussion of key topics of politics."
- 
+ JAP_mental_hygene_desc:0 "旧制度是试图向人们的头脑中灌输压制性的意识形态。我们要做的是解放人们的思想，开放对关键政治议题的讨论。"
  JAP_expand_departments:0 "扩展政府部门"
- JAP_expand_departments_desc:0 "In order to enhance the government furthermore, we need to expand the authority and powers of departments, which will include even more affairs under the control of the bureaucrat system."
- 
+ JAP_expand_departments_desc:0 "为了进一步加强政府，我们需要扩大部门的权限和权力，这将产生更多官僚系统控制下的事务。"
  JAP_military_bureaucrat:0 "军队官僚化"
- JAP_military_bureaucrat_desc:0 "The final solution of taking control of military is to place bureaucrats into it even if this measure could bring negative effect on military efficiency."
- 
+ JAP_military_bureaucrat_desc:0 "控制军队的最终解决方案是在军队中安排官僚，即使这一措施会对军队的效率产生负面影响。"
  JAP_smaller_japan:0 "贯彻小日本主义"
- JAP_smaller_japan_desc:0 "Economists have proved that colonies are burdens but engines of Japanese economy. But the ideology of imperialism still drive Japanese military to occupy more territories. If there must be a Japanese Empire, it must be an empire of trade, technologies and culture, not an empire of militarism."
- 
+ JAP_smaller_japan_desc:0 "经济学家已经证明，殖民地是负担，不是日本经济的引擎。但帝国主义的意识形态仍然驱使日本军队占领更多的领土。如果必须有一个日本帝国，它只能是一个贸易、技术和文化的帝国，而不是一个军国主义的帝国。"
  JAP_tokiwadai_special_service:0 "常盘台特种技术局"
- JAP_tokiwadai_special_service_desc:0 "Tokiwadai Special Service provides another innovative solutions on special services."
- 
+ JAP_tokiwadai_special_service_desc:0 "常盘台特种技术局在特种设备方面提供了另一种创新的解决方案。"
  JAP_motorized_segiments:0 "摩托化师团"
- JAP_motorized_segiments_desc:0 "Motorized Segiments should be put into real walfare."
- 
+ JAP_motorized_segiments_desc:0 "摩托化师团应该被投入到真正的战斗中。"
  JAP_Riken:0 "理化学研究所"
- JAP_Riken_desc:0 "RIKEN, is a portmanteau of the formal name Rikagaku Kenkyūjo. It is a large scientific research institute proposed by well-known scientist Jokichi Takamine. Prince Yasaka Kanako is very enthusiatic about it. So let's start this project."
- 
+ JAP_Riken_desc:0 "理研(RIKEN)，是理化学研究所的正式名称。它是由著名科学家高峰讓吉提出的一个大型科研机构。八坂神奈子亲王对它非常关注。因此，让我们开始发展这个项目。"
  JAP_Eirin_Plan:0 "八意永琳方案"
- JAP_Eirin_Plan_desc:0 "General yagokoro Eirin is also a medical scientist. She has proposed a ambitious army reformation plan. She pointed out that medical system should be integrated into the logistic system. Maybe her word should be considered carefully."
- 
+ JAP_Eirin_Plan_desc:0 "八意永琳将军也是一位医学家。她提出了一个雄心勃勃的军队改革计划。她指出，医疗系统应该被纳入后勤系统。我们应当仔细考虑她的建议。"
  JAP_Sasebo_Dockyard:0 "资助国立造船厂"
- JAP_Sasebo_Dockyard_desc:0 "State-owned Dockyards provide more stable and multi-fucntional naval ship building. And more importantly, they have very good relationships with navy, and investing them will make navy feel comfortable."
- 
+ JAP_Sasebo_Dockyard_desc:0 "国立造船厂提供更稳定和多功能的海军舰艇建造计划。更重要的是，他们与海军有很好的关系，投资他们会使海军感觉良好。"
  JAP_Kappa:0 "资助河童财阀"
- JAP_Kappa_desc:0 "Kappa Zaibatsu has advanced naval technologies, especially ones about amphibious warfare. However, the navy does not have its connection to Kappa. And what's more, Kappa Zaibatsu has very special relationship with some veterans, especially Yasaka Kanako, which navy won't be too happy about."
- 
+ JAP_Kappa_desc:0 "河童财阀拥有先进的海军技术，特别是关于两栖作战的技术。然而，海军与河童财阀没有往来。更重要的是，河童财阀与一些老兵有非常特殊的关系，特别是八坂神奈子，海军不会高兴的。"
  JAP_Colonize_Taiwan:0 "殖民台湾"
- JAP_Colonize_Taiwan_desc:0 "Colonizing Taiwan allows us to integrate Taiwan into the Empire."
- 
+ JAP_Colonize_Taiwan_desc:0 "殖民台湾可以让我们把台湾整合进帝国。"
  JAP_Colonize_Korea:0 "殖民朝鲜"
- JAP_Colonize_Korea_desc:0 "Colonizing Korea allows us to integrate Korea into the Empire."
- 
+ JAP_Colonize_Korea_desc:0 "殖民朝鲜可以让我们把朝鲜整合进帝国。"
  JAP_Colonize_Manchuria:0 "殖民满洲"
  JAP_Colonize_Manchuria_desc:0 "Colonizing Korea allows us to integrate Manchuria into the Empire."
- 
  JAP_Move_Capital:0 "新首都"
- JAP_Move_Capital_desc:0 "The final fruit of Continential Policy has come. Eventually we are able to move our capital to the continent."
- 
+ JAP_Move_Capital_desc:0 "大陆政策已然开花结果。我们终于可以迁都大陆。"
  JAP_japanese_shipbuilding:0 "国立重樱造船公司"
- JAP_japanese_shipbuilding_desc:0 "Sakura Shipbuilding Inc. was a syndicate of state-owned companies proposed to establish by navy. It will integrate the resources and reduce the cost of shipbuilding."
- 
+ JAP_japanese_shipbuilding_desc:0 "国立重樱造船公司海军提议成立的一家国有企业辛迪加。整合资源，降低造船成本。"
  JAP_expand_Chinjufu:0 "扩建海军镇守府"
- JAP_expand_Chinjufu_desc:0 "Chinjufu is an essential institute in navy to organize local naval activities. By expanding Chinjufus, we are able to make navy more flexible."
- 
+ JAP_expand_Chinjufu_desc:0 "镇守府是海军组织本地海军活动的重要机构。 通过扩展镇守府，我们能够使海军更加灵活。"
  JAP_Bank_of_Japan_Act:0 "日本银行法"
- JAP_Bank_of_Japan_Act_desc:0 "Bank of Japan is an important institute responsible for monetary affairs. Bank of Japan Act will make the function of it more standardized."
- 
+ JAP_Bank_of_Japan_Act_desc:0 "日本银行是负责货币事务的重要机构。 日本银行法将使它的功能更加规范。"
  JAP_showa_research:0 "昭和研究会"
- JAP_showa_research_desc:0 "Showa Research Society is a state think-tank which focuses on the expansion of functions of Youkusan System and overall national strategy."
- 
+ JAP_showa_research_desc:0 "昭和研究会是一个国家智库，专注于翼赞政体的扩展和国家总体战略。"
  JAP_japanese_economic_reorganization:0 "日本经济重组计划"
- JAP_japanese_economic_reorganization_desc:0 "Japanese Economic Reorganization is a plan about reorganzing social production for the war. It contains the content of guiding the Zaibatsus and some radical plan of merging existed companies. The command of prices and foreign exchanges are also included."
- 
+ JAP_japanese_economic_reorganization_desc:0 "日本经济重组计划是为战争重组社会生产的计划。 它包含引导财阀和合并现有公司的一些激进计划。 控制价格和外汇也包括在内。"
  JAP_Nagae_Electronic:0 "永江电子"
- JAP_Nagae_Electronic_desc:0 "Nagae Iku is one of most talented officer and scientist. Nagae Electronic established by Iku is one of the most advanced electronic company and research institute. It will provide the best electronic devices for the military."
- 
+ JAP_Nagae_Electronic_desc:0 "永江衣玖是最有才华的军官和科学家之一。她成立的永江电子是最先进的电子公司和研究所之一。它将为军队提供最好的电子设备。"
  JAP_japanese_air_power_theory:0 "日本空军学"
- JAP_japanese_air_power_theory_desc:0 "Japanese air forces still lack the instruction of theories, despite advanced equipments. Focus on air theories will increase the flexiblity of Japanese air forces, no matter for IJA or IJN."
- 
+ JAP_japanese_air_power_theory_desc:0 "日本空中力量虽然装备先进，但仍然缺乏理论指导。专注于空军理论将增加日本空中力量的灵活性，无论是陆航还是海航。"
  JAP_industrial_automation:0 "工业自动化"
- JAP_industrial_automation_desc:0 "Advanced knowledge in both electronics and industry allow us to do experiments on industrial automation."
- 
+ JAP_industrial_automation_desc:0 "电子和工业方面的先进知识使我们能够进行工业自动化实验。"
  JAP_support_our_friends:0 "支援我们的盟友"
- JAP_support_our_friends_desc:0 "We have supported the White Movement to defend the threat of communism. And we should keep support them to secure that they could finally win the civil war."
+ JAP_support_our_friends_desc:0 "我们通过支持白军运动来抵御共产主义的威胁。 我们应该继续支持他们，以确保他们能够最终赢得内战。"
  
  JAP_nichi_go:0 "二号作战"
  JAP_nichi_go_desc:0 "作为我们彻底征服大陆的前奏，凭借常年在满洲和北平一带的间谍活动我们早已充分掌握了敌方的动向，不过随着战争爆发这种优势很快将不复存在。" 
