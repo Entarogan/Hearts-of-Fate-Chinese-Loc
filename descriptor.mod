@@ -1,4 +1,4 @@
-name="Hearts of Fate (Chinese Translation) dev"
+name="Hearts of Fate (Chinese Translation) git"
 version="1.9"
 tags={
 	"Translation"
@@ -6,5 +6,4 @@ tags={
 dependencies={
 	"Hearts of Fate: dev"
 }
-supported_version="1.11.*"
-# remote_file_id="1533199946"
+supported_version="1.12.*"
