@@ -774,6 +774,8 @@
  patriotic_bishop:0 "爱国的主教"
  peasant_leader:0 "农民领袖"
  Devoted_Politician:0 "有献身精神的政客"
+ Lazurite:0 "青金"
+ Lazurite_army:0 "青金"
 
  POL_Sanacja_goverment_maintained_tt:0 "萨纳奇制度得以维持"
  POL_Sanacja_government_flag:0 "萨纳奇制度得以维持"
@@ -793,7 +795,45 @@
  POL_FED_democratic:0 "波兰-立陶宛联邦共和国"
  POL_FED_democratic_DEF:0 "波兰-立陶宛联邦共和国"
 
- 
- 
+ poland_diplo.1.t:0 "波兰想要同我们签订互不侵犯条约"
+ poland_diplo.1.d:0 "由于波兰民族党的上台，波兰的外交政策发生了重要的变化。新的波兰政府对于恢复波兰-立陶宛联邦的旧领土并没有兴趣，并且希望尽快同我国取得和解以对抗德国。"
+ poland_diplo.1.a:0 "很好"
+ poland_diplo.1.b:0 "然而我们另有计划"
 
+ poland_diplo.2.t:0 "波兰对我国的外交转向"
+ poland_diplo.2.d:0 "由于波兰新政权的上台，其国内的政治风向转为极度仇视俄国。看起来目前波兰人和我们依然有不少共同利益。新的波兰政府已经向我国发送了外交照会，希望同我国改善关系，共同抵抗俄国的威胁。波兰还暗示，它在西部边界地区的一些问题上可以“灵活处理”。"
+ poland_diplo.2.a:0 "这正是我们需要的"
+ poland_diplo.2.b:0 "波兰需要先割让波兹南"
+ poland_diplo.2.c:0 "不可能，我们迟早要摧毁波兰"
+
+ poland_diplo.3.t:0 "德国索要波兹南"
+ poland_diplo.3.d:0 "德国方面要求我们同意在波兹南“举行德国监督的全民公投”以决定波兹南的归属。他们声称这一区域的民族自决权是两国合作关系的基础。尽管这是我们意料之中的，但是我们依然可以选择拒绝这一要求，尽管这将丧失同德国和解的机会。"
+ poland_diplo.3.a:0 "没有舍弃，就没有收获"
+ poland_diplo.3.b:0 "不可能"
+
+ poland_diplo.4.t:0 "波兰割让波兹南"
+ poland_diplo.4.d:0 "波兰方面已经表示在波兹南问题上他们会“尊重民族自决权”。是时候履行我们对于波兰的承诺了。"
+ poland_diplo.4.a:0 "很好"
+ poland_diplo.4.b:0 "可是我又反悔了"
+
+ poland_diplo.5.t:0 "[FROM.GetName]同意和解"
+ poland_diplo.5.d:0 "我们同德国的外交取得了成功，至少我们暂时不用与他们对抗了。"
+ poland_diplo.5.a:0 "很好"
+
+ poland_diplo.6.t:0 "[FROM.GetName]同意和解"
+ poland_diplo.6.d:0 "我们同俄国的外交取得了成功，至少我们暂时不用与他们对抗了。"
+ poland_diplo.6.a:0 "很好"
+
+ poland_diplo.7.t:0 "波兰寻求军事合作"
+ poland_diplo.7.d:0 "波兰人曾经在日俄战争期间寻求和我们结盟以对抗俄国人，如今已经获得独立的波兰人也一直很重视波兰-日本关系。在这种情况下，波兰向我国提出正式合作的请求。他们愿意同我们分享一部分他们机械化骑兵部队的经验以及化学工业方面的进展，他们希望获得我们的步兵武器的技术和作战经验。"
+ poland_diplo.7.a:0 "很好"
+ poland_diplo.7.b:0 "波兰人一边凉快去吧"
+
+ poland_diplo.8.t:0 "日本同意了军事互助"
+ poland_diplo.8.d:0 "日本人同意了与我国进行军事互助。我们的陆军质量可以得到提升。"
+ poland_diplo.8.a:0 "太好了"
+
+ poland_diplo.9.t:0 "日本拒绝了军事互助"
+ poland_diplo.9.d:0 "日本人拒绝了与我国进行军事互助。"
+ poland_diplo.9.a:0 "唉，日本"
 
